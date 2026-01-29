@@ -1,0 +1,778 @@
+Viento Máximo (km/h)
+Estación Meteorológica   Aeroparque Aero
+Año 2002 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Sur 37;Sur 61;Sur 39;Oeste 41;Noroeste 31;Norte 46;Este 52;Sur 37;Sur 48;Noreste 54;Norte 46;Sudeste 52;
+2;Este 33;Sudeste 37;Norte 48;Norte 26;Noroeste 39;Este 54;Este 50;Este 20;Oeste 52;Sur 63;Norte 41;Este 30;
+3;Oeste 52;Norte 52;Norte 41;Noroeste 30;Oeste 41;Este 26;Sudeste 50;Norte 26;Norte 33;Este 48;Sur 67;Norte 43;
+4;Este 54;Sur 57;Sur 59;Norte 31;Oeste 35;Sudeste 41;Sudeste 44;Sudoeste 39;Norte 41;Este 46;Sur 59;Norte 35;
+5;Sudeste 63;Sur 56;Sur 54;Este 33;Este 33;Oeste 56;Este 37;Sudoeste 35;Sur 68;Este 44;Este 46;Noreste 30;
+6;Sur 46;Este 63;Norte 30;Noreste 37;Norte 22;Norte 31;Sur 52;Este 39;Sur 37;Sur 87;Noreste 50;Sur 31;
+7;Noreste 41;Este 57;Norte 46;Norte 44;Norte 28;Norte 67;Sudoeste 35;Este 52;Este 33;Este 52;Norte 63;Sudeste 54;
+8;Norte 26;Este 50;Noreste 24;Sur 30;Este 52;Norte 46;Sur 33;Sudoeste 48;Este 35;Este 50;Este 61;Sudeste 46;
+9;Este 54;Sur 50;Sur 74;Este 33;Este 33;Oeste 81;Sur 24;Sudoeste 54;Este 56;Este 33;Este 59;Este 41;
+10;Este 56;Sur 26;Sur 81;Este 44;Norte 37;Sudoeste 46;Noreste 26;Oeste 39;Este 48;Noreste 41;Oeste 78;Este 37;
+11;Este 41;Norte 61;Este 48;Sur 54;Norte 26;Oeste 33;Norte 37;Este 43;Sur 57;Oeste 57;Oeste 65;Este 44;
+12;Norte 33;Norte 41;Norte 46;Sur 46;Este 65;Sur 24;Noroeste 33;Este 31;Sur 41;Norte 28;Noroeste 48;Sur 44;
+13;Sur 67;Este 22;Norte 46;Sudeste 44;Norte 72;Oeste 31;Norte 30;Sur 52;Sur 31;Norte 28;Norte 46;Este 43;
+14;Sur 59;Sur 33;Noreste 35;Este 30;Norte 41;Oeste 43;Noroeste 35;Sur 43;Este 41;Este 67;Este 72;Este 31;
+15;Sudoeste 31;Este 59;Sur 78;Este 44;Sur 57;Norte 30;Noroeste 31;Este 35;Este 48;Sur 93;Este 70;Oeste 39;
+16;Este 43;Este 54;Oeste 78;Norte 52;Este 56;Norte 30;Sur 48;Este 50;Este 46;Sur 50;Norte 37;Oeste 54;
+17;Este 43;Este 54;Este 52;Oeste 59;Este 54;Oeste 24;Este 43;Este 30;Sudeste 35;Norte 43;Oeste 78;Este 41;
+18;Este 48;Este 48;Este 74;Sur 31;Sur 48;Oeste 37;Norte 31;Norte 56;Este 46;Norte 63;Sur 70;Norte 78;
+19;Norte 54;Este 50;Este 67;Sudoeste 50;Sur 41;Noroeste 46;Este 30;Sur 52;Sudeste 76;Este 93;Norte 43;Este 74;
+20;Sur 48;Este 54;Sudeste 50;Sudoeste 54;Sur 35;Sur 63;Este 26;Oeste 41;Sudoeste 48;Este 87;Oeste 74;Este 33;
+21;Sudeste 31;Sudeste 48;Este 39;Este 33;Noroeste 28;Sur 57;Sur 74;Oeste 28;Oeste 37;Sudoeste 80;Sur 43;Norte 52;
+22;Norte 24;Oeste 39;Norte 43;Este 52;Norte 41;Norte 30;Sur 54;Noreste 41;Sur 37;Norte 39;Norte 37;Este 67;
+23;Norte 22;Sudeste 67;Este 31;Sur 35;Norte 37;Oeste 31;Este 43;Norte 33;Este 30;Norte 48;Noroeste 39;Sur 61;
+24;Norte 61;Norte 41;Sur 52;Este 31;Norte 41;Sur 26;Sur 57;Este 24;Norte 43;Este 22;Este 43;Noreste 31;
+25;Sur 63;Norte 50;Sur 30;Noroeste 33;Norte 43;Norte 35;Sudoeste 39;Este 50;Este 56;Este 52;Sudeste 67;Norte 39;
+26;Este 50;Norte 37;Sudeste 57;Sudoeste 52;Norte 39;Norte 43;Este 26;Este 44;Este 48;Este 54;Sudeste 30;Noroeste 41;
+27;Oeste 63;Norte 33;Este 70;Noroeste 37;Este 46;Noreste 30;Oeste 44;Norte 28;Este 33;Este 56;Sur 59;Norte 50;
+28;Oeste 43;Sur 54;Este 61;Noroeste 39;Este 67;Este 54;Norte 30;Sudoeste 46;Sur 63;Sur 57;Este 41;Norte 56;
+29;Este 46; ;Norte 37;Sudoeste 37;Sur 50;Sur 43;Norte 39;Sudoeste 63;Este 44;Sudeste 57;Este 50;Sur 61;
+30;Este 52; ;Sudoeste 59;Sudoeste 30;Sudeste 30;Sur 44;Sur 46;Oeste 61;Este 28;Este 50;Este 57;Este 100;
+31;Oeste 63; ;Sur 48; ;Norte 39; ;Sur 59;Oeste 54; ;Norte 44; ;Este 54;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2003 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Este 35;Norte 72;Norte 31;Este 33;Oeste 31;Este 17;Sur 46;Norte 33;Este 31;Noreste 43;Sudeste 67;Noreste 22;
+2;Este 39;Sur 104;Este 37;Este 41;Sur 35;Sur 72;Sudeste 35;Sudoeste 46;Norte 22;Sur 44;Norte 33;Oeste 31;
+3;Este 37;Norte 41;Norte 30;Este 37;Noroeste 26;Sudeste 43;Norte 20;Este 46;Este 50;Este 48;Este 33;Este 52;
+4;Sur 28;Noroeste 33;Noreste 24;Este 35;Noroeste 37;Norte 50;Sur 39;Sur 31;Norte 72;Este 30;Este 35;Este 57;
+5;Oeste 57;Noroeste 24;Norte 48;Sur 31;Sur 41;Noroeste 37;Sudoeste 28;Oeste 61;Este 39;Norte 19;Este 31;Sudoeste 59;
+6;Sudeste 46;Norte 41;Este 41;Norte 26;Sudoeste 41;Sudoeste 41;Oeste 24;Oeste 72;Sur 63;Este 54;Este 31;Oeste 50;
+7;Sudeste 46;Este 67;Este 43;Noroeste 39;Sur 22;Sur 33;Norte 37;Oeste 52;Este 63;Norte 57;Norte 44;Este 31;
+8;Sudeste 52;Este 52;Este 57;Norte 41;Norte 22;Este 20;Sudoeste 85;Sudoeste 63;Sur 48;Sur 74;Norte 56;Sur 61;
+9;Este 56;Este 61;Este 52;Sur 50;Norte 33;Norte 35;Oeste 50;Sudoeste 39;Sur 35;Oeste 67;Este 30;Noroeste 46;
+10;Sur 93;Este 56;Norte 61;Sudoeste 68;Norte 43;Norte 37;Sudoeste 52;Noreste 26;Oeste 35;Sur 54;Este 61;Noroeste 44;
+11;Este 59;Sudeste 76;Sur 59;Oeste 56;Norte 31;Sudoeste 31;Sudoeste 43;Norte 33;Noroeste 50;Este 31;Este 78;Sur 63;
+12;Este 43;Sudoeste 39;Sur 41;Sur 43;Este 35;Norte 33;Noreste 26;Norte 33;Sudeste 57;Este 35;Sur 72;Norte 28;
+13;Oeste 72;Este 28;Noreste 30;Norte 28;Este 37;Sudoeste 35;Norte 54;Norte 33;Sudeste 50;Norte 39;Sur 43;Norte 56;
+14;Norte 35;Noreste 35;Norte 41;Norte 35;Norte 39;Noreste 31;Norte 56;Sur 35;Este 48;Norte 43;Norte 46;Sudoeste 70;
+15;Norte 33;Sudoeste 50;Este 41;Norte 28;Este 54;Sudoeste 59;Oeste 52;Sudeste 31;Este 46;Norte 41;Sur 78;Sur 67;
+16;Este 35;Sudoeste 52;Sudeste 33;Este 33;Este 43;Sudoeste 19;Oeste 48;Sudoeste 30;Sudeste 35;Sudeste 52;Este 37;Sur 44;
+17;Sur 68;Oeste 67;Norte 41;Este 46;Sur 61;Este 33;Norte 31;Noroeste 35;Este 39;Este 65;Este 59;Noroeste 41;
+18;Sudeste 65;Noroeste 37;Noroeste 44;Este 52;Sur 52;Este 31;Noroeste 31;Norte 37;Norte 44;Sur 54;Oeste 65;Norte 41;
+19;Norte 59;Sur 59;Noroeste 37;Sudoeste 78;Este 65;Norte 33;Oeste 26;Norte 39;Sur 68;Noroeste 44;Sudoeste 63;Norte 39;
+20;Sur 46;Sudoeste 54;Sur 78;Noroeste 44;Este 41;Noroeste 46;Oeste 44;Este 37;Este 39;Este 39;Sur 54;Norte 46;
+21;Este 33;Sur 33;Sudeste 33;Norte 46;Norte 30;Sur 56;Oeste 43;Sur 63;Este 52;Sudoeste 59;Norte 50;Norte 104;
+22;Este 57;Norte 26;Norte 26;Este 31;Sur 44;Norte 33;Este 35;Sudeste 65;Este 30;Oeste 48;Norte 37;Sudoeste 65;
+23;Sudoeste 48;Este 37;Este 54;Este 37;Oeste 48;Sur 30;Este 31;Sudeste 44;Sur 65;Norte 41;Este 72;Sudeste 37;
+24;Norte 41;Este 30;Este 63;Este 35;Oeste 65;Este 37;Sudoeste 19;Oeste 43;Este 50;Norte 46;Este 59;Norte 41;
+25;Norte 37;Noroeste 20;Este 48;Este 48;Norte 44;Este 78;Este 30;Sur 52;Este 48;Este 44;Norte 46;Norte 41;
+26;Noroeste 28;Noreste 31;Noreste 43;Este 48;Oeste 39;Este 67;Este 54;Sur 46;Este 35;Sur 59;Este 48;Norte 70;
+27;Norte 37;Sur 70;Noreste 43;Este 41;Noroeste 43;Este 52;Este 41;Norte 68;Sur 70;Sudeste 37;Oeste 44;Norte 70;
+28;Este 61;Este 30;Norte 52;Este 20;Sur 26;Sudoeste 30;Este 30;Este 39;Sur 50;Norte 41;Sudeste 48;Sudoeste 65;
+29;Este 44; ;Sudeste 52;Este 63;Oeste 28;Noreste 31;Oeste 43;Este 33;Norte 41;Norte 48;Este 50;Norte 35;
+30;Noroeste 44; ;Sur 52;Este 43;Noroeste 28;Norte 39;Oeste 26;Este 44;Norte 37;Sur 89;Este 48;Sur 85;
+31;Noroeste 44; ;Sur 35; ;Sur 39; ;Este 31;Este 35; ;Sur 70; ;Sur 67;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2004 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Norte 26;Este 44;Norte 52;Sudeste 37;Norte 35;Este 30;Norte 43;Este 31;Este 50;Sur 54;Norte 48;Noreste 50;
+2;Norte 30;Este 54;Oeste 63;Este 35;Sudeste 61;Este 26;Norte 48;Noreste 37;Este 41;Este 39;Este 52;Noreste 54;
+3;Norte 48;Este 41;Oeste 37;Norte 20;Este 68;Norte 35;Oeste 48;Este 28;Este 54;Este 39;Este 59;Oeste 57;
+4;Norte 48;Sur 44;Este 22;Este 57;Este 56;Norte 37;Norte 35;Sur 44;Sur 54;Este 54;Sur 70;Sur 35;
+5;Este 30;Sudeste 46;Este 50;Norte 56;Este 43;Norte 39;Oeste 37;Sur 72;Este 56;Este 54;Sur 68;Norte 41;
+6;Este 61;Este 37;Sur 59;Sudoeste 70;Este 46;Sur 31;Oeste 44;Sur 37;Sudeste 68;Este 52;Sudoeste 39;Este 56;
+7;Sur 43;Este 59;Este 46;Este 30;Sudeste 22;Norte 37;Sur 46;Sur 41;Sur 67;Noreste 56;Noreste 41;Este 50;
+8;Este 54;Este 59;Sudeste 28;Sur 80;Norte 26;Noroeste 37;Oeste 35;Norte 33;Sudeste 54;Sur 46;Norte 54;Este 54;
+9;Este 39;Noreste 61;Este 24;Este 63;Noroeste 30;Norte 33;Oeste 35;Norte 37;Este 41;Sudeste 50;Este 52;Este 56;
+10;Sudeste 81;Norte 37;Este 61;Este 48;Este 41;Sudoeste 59;Sudoeste 54;Este 30;Este 31;Sur 37;Sur 68;Este 52;
+11;Sur 52;Este 43;Este 52;Este 28;Este 44;Oeste 46;Norte 46;Este 39;Sur 50;Este 65;Sur 68;Este 52;
+12;Este 35;Norte 44;Este 52;Norte 35;Sudeste 57;Oeste 43;Norte 50;Este 35;Noreste 30;Este 74;Sur 46;Noreste 56;
+13;Norte 31;Sur 54;Este 50;Oeste 41;Sur 59;Noroeste 39;Norte 31;Este 22;Norte 41;Oeste 59;Este 54;Este 54;
+14;Sur 67;Sur 52;Este 52;Sur 65;Sur 44;Noroeste 39;Sur 50;Norte 37;Norte 31;Oeste 35;Norte 63;Sudoeste 57;
+15;Sur 74;Sudoeste 31;Este 39;Este 48;Sur 20;Noroeste 31;Sur 43;Norte 33;Sur 57;Sudeste 30;Este 30;Oeste 63;
+16;Este 48;Norte 30;Este 48;Sur 46;Noroeste 26;Sudoeste 48;Sur 35;Este 48;Norte 39;Sudoeste 80;Oeste 56;Sur 43;
+17;Este 48;Oeste 61;Este 44;Oeste 28;Sur 41;Sudoeste 46;Este 35;Sur 54;Norte 35;Sur 56;Oeste 63;Noreste 43;
+18;Este 48;Sur 35;Este 30;Sur 50;Sur 33;Norte 31;Este 41;Sur 54;Norte 31;Oeste 59;Sudoeste 41;Norte 52;
+19;Este 59;Sur 46;Este 30;Oeste 50;Este 33;Noreste 31;Este 48;Este 65;Sudeste 74;Sur 35;Este 37;Sur 57;
+20;Norte 46;Sur 48;Este 33;Este 31;Este 52;Oeste 37;Este 31;Este 48;Este 50;Noroeste 35;Este 39;Este 46;
+21;Este 65;Sur 43;Este 35;Este 70;Este 54;Sur 52;Este 65;Sudoeste 52;Este 50;Norte 52;Norte 33;Norte 50;
+22;Este 46;Sur 31;Norte 39;Este 70;Este 54;Este 37;Norte 52;Sudoeste 26;Oeste 46;Sur 61;Norte 35;Norte 52;
+23;Este 44;Este 41;Norte 31;Sur 56;Este 85;Sur 24;Norte 48;Noroeste 46;Norte 33;Norte 57;Este 54;Norte 59;
+24;Sur 39;Este 35;Norte 24;Sur 31;Este 74;Oeste 26;Norte 74;Noroeste 50;Este 56;Oeste 41;Este 39;Oeste 67;
+25;Sur 30;Norte 37;Este 26;Noroeste 26;Sur 48;Norte 31;Norte 74;Sur 33;Este 37;Noroeste 56;Este 30;Oeste 57;
+26;Oeste 28;Este 31;Norte 35;Oeste 33;Sur 48;Este 17;Norte 37;Norte 30;Este 63;Noroeste 54;Este 39;Sudoeste 37;
+27;Este 48;Este 52;Este 30;Noroeste 30;Sudoeste 26;Norte 35;Noreste 30;Norte 31;Este 56;Noroeste 44;Este 35;Este 37;
+28;Este 43;Este 52;Norte 39;Norte 28;Norte 33;Norte 48;Sudoeste 46;Sudoeste 30;Sur 56;Noroeste 44;Este 33;Este 48;
+29;Sudoeste 39;Norte 52;Norte 54;Sur 50;Noroeste 31;Sudeste 46;Sudoeste 50;Oeste 50;Sur 56;Este 39;Sur 50;Este 37;
+30;Sudeste 89; ;Este 59;Norte 43;Este 41;Sudeste 48;Sur 28;Este 46;Norte 44;Sudeste 35;Este 43;Norte 26;
+31;Sudeste 83; ;Noreste 52; ;Este 33; ;Este 26;Este 54; ;Norte 35; ;Norte 30;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2005 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Norte 41;Sudoeste 54;Sudeste 44;Sur 52;Noroeste 31;Norte 30;Este 22;Este 54;Sur 44;Oeste 41;Norte 48;Sudeste 48;
+2;Este 52;Este 30;Este 37;Sur 50;Norte 31;Norte 48;Noroeste 52;Sur 65;Este 44;Este 61;Norte 35;Este 44;
+3;Este 59;Este 41;Norte 46;Oeste 46;Norte 33;Sur 72;Sudeste 44;Este 46;Este 33;Sur 54;Norte 41;Noreste 65;
+4;Este 39;Este 50;Norte 52;Norte 39;Sur 43;Este 59;Sudeste 46;Este 67;Este 35;Sur 59;Sudoeste 78;Noreste 41;
+5;Este 39;Este 43;Este 39;Norte 41;Sur 56;Sur 41;Sudoeste 46;Este 65;Oeste 41;Oeste 67;Este 52;Sudoeste 54;
+6;Este 54;Este 35;Sudeste 33;Este 33;Sur 46;Este 41;Sur 30;Sudoeste 50;Este 33;Sur 37;Este 61;Sudeste 50;
+7;Sur 67;Noreste 48;Sur 63;Sudoeste 72;Sudeste 35;Norte 22;Norte 48;Sur 44;Norte 35;Este 37;Este 37;Norte 44;
+8;Este 41;Norte 50;Sur 65;Noroeste 28;Este 33;Sur 63;Noreste 57;Sudeste 41;Este 46;Este 30;Este 50;Oeste 44;
+9;Este 67;Oeste 80;Sur 35;Noroeste 28;Este 24;Este 44;Norte 31;Este 31;Este 33;Este 30;Este 54;Sur 76;
+10;Sudeste 56;Sur 50;Oeste 54;Este 22;Norte 28;Sur 59;Norte 35;Norte 52;Sur 65;Norte 43;Este 57;Sur 67;
+11;Este 35;Sudeste 57;Oeste 44;Sur 41;Sur 65;Sur 41;Este 44;Norte 37;Sur 56;Norte 37;Noreste 46;Este 41;
+12;Sudeste 67;Este 65;Este 46;Sur 54;Norte 41;Sur 39;Este 33;Norte 43;Sudoeste 50;Sur 50;Este 52;Este 59;
+13;Sudeste 67;Este 52;Este 39;Este 54;Este 57;Sur 65;Este 22;Norte 26;Este 33;Sudeste 39;Este 52;Este 65;
+14;Sur 72;Este 54;Este 31;Sudeste 65;Sur 67;Este 50;Este 24;Sur 76;Este 35;Sudeste 54;Sudoeste 93;Este 52;
+15;Sudeste 52;Este 44;Este 43;Sur 54;Sur 43;Este 72;Sur 57;Este 72;Sur 39;Norte 33;Este 48;Este 39;
+16;Noroeste 43;Norte 43;Este 37;Oeste 31;Sudoeste 37;Este 54;Sur 63;Este 65;Este 31;Este 56;Norte 22;Sur 67;
+17;Sudeste 72;Este 37;Sur 72;Norte 31;Norte 31;Sudoeste 33;Sur 41;Sur 52;Este 35;Este 35;Norte 35;Este 37;
+18;Sudeste 72;Este 39;Sur 76;Norte 30;Sur 30;Sur 35;Sudoeste 39;Sur 35;Este 35;Oeste 44;Sur 59;Sur 70;
+19;Sudoeste 74;Este 50;Norte 46;Sur 67;Sur 46;Sur 35;Norte 33;Este 39;Este 41;Norte 43;Oeste 57;Sur 52;
+20;Sur 57;Este 43;Norte 43;Sudeste 56;Sudoeste 48;Sur 33;Norte 39;Este 52;Este 41;Noroeste 41;Este 48;Norte 37;
+21;Noroeste 30;Este 67;Norte 43;Norte 30;Oeste 54;Este 31;Este 37;Noreste 37;Este 48;Este 22;Norte 33;Sudoeste 50;
+22;Sudoeste 41;Este 39;Sur 35;Norte 30;Noroeste 35;Noreste 31;Oeste 50;Este 67;Este 33;Sur 54;Este 28;Sur 85;
+23;Sudoeste 33;Este 59;Este 26;Oeste 35;Noroeste 48;Este 22;Norte 44;Sudoeste 105;Sudoeste 83;Este 56;Oeste 83;Sur 85;
+24;Oeste 54;Sudeste 41;Este 33;Sur 74;Sur 43;Norte 31;Norte 31;Oeste 63;Sudeste 65;Este 54;Sudoeste 48;Sur 48;
+25;Sur 56;Este 28;Norte 39;Sur 54;Sur 52;Este 28;Sudoeste 39;Norte 30;Sudeste 46;Sur 46;Noroeste 54;Este 39;
+26;Este 44;Sur 35;Este 35;Norte 26;Norte 31;Norte 30;Sudeste 30;Norte 33;Este 35;Este 26;Noroeste 46;Este 39;
+27;Norte 41;Norte 28;Norte 35;Norte 26;Norte 33;Norte 41;Norte 37;Sur 46;Norte 41;Este 37;Norte 46;Este 52;
+28;Norte 41;Sur 65;Sudoeste 43;Norte 19;Norte 30;Sudoeste 35;Este 30;Sudoeste 35;Norte 46;Sur 50;Sur 56;Este 39;
+29;Sudeste 54; ;Sudoeste 57;Oeste 22;Sur 57;Sur 33;Este 28;Sur 52;Oeste 67;Sur 56;Sur 72;Sur 30;
+30;Sur 78; ;Este 46;Norte 28;Sur 43;Sur 26;Norte 15;Sur 63;Oeste 74;Sur 46;Sudeste 61;Este 39;
+31;Sur 96; ;Este 46; ;Norte 31; ;Este 44;Sur 44; ;Norte 46; ;Sudeste 46;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2006 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Este 41;Este 48;Este 33;Este 43;Sur 44;Este 37;Este 22;Este 20;Sudeste 59;Sudeste 35;Este 37;Norte 56;
+2;Oeste 44;Este 52;Este 63;Este 52;Sur 41;Este 39;Norte 24;Este 39;Sur 76;Norte 50;Noreste 37;Oeste 61;
+3;Sudeste 50;Este 39;Este 70;Este 39;Este 24;Este 48;Norte 26;Este 41;Sur 68;Este 68;Este 59;Sudoeste 54;
+4;Este 33;Noroeste 44;Sur 41;Norte 39;Este 19;Oeste 43;Norte 20;Este 37;Sudoeste 41;Sudoeste 68;Este 50;Sudeste 50;
+5;Este 31;Oeste 52;Este 22;Este 33;Noroeste 20;Norte 26;Este 35;Sur 30;Norte 30;Sur 46;Este 56;Este 43;
+6;Sur 61;Sudoeste 50;Noroeste 28;Este 35;Sur 31;Norte 30;Noreste 22;Este 50;Noreste 41;Norte 44;Sur 65;Este 46;
+7;Este 70;Este 37;Norte 35;Este 41;Este 63;Este 30;Sudoeste 54;Sur 33;Norte 43;Norte 22;Sur 48;Este 46;
+8;Este 76;Noreste 37;Este 46;Este 44;Este 37;Sur 54;Sur 61;Este 50;Este 28;Norte 39;Sudeste 37;Sudoeste 57;
+9;Norte 41;Sudoeste 35;Sur 48;Este 39;Este 22;Sudeste 52;Oeste 41;Sudeste 59;Sur 39;Norte 50;Norte 28;Sur 31;
+10;Sur 76;Este 44;Sudeste 46;Este 31;Este 22;Sur 28;Noroeste 35;Oeste 33;Norte 37;Sur 67;Este 44;Este 61;
+11;Sudeste 67;Este 41;Noreste 46;Este 26;Este 44;Noroeste 33;Norte 46;Norte 35;Sur 54;Este 39;Sur 41;Este 63;
+12;Sur 78;Este 35;Este 30;Noreste 28;Este 31;Norte 48;Sur 50;Sudeste 37;Este 56;Este 46;Noreste 50;Este 44;
+13;Este 50;Norte 26;Este 31;Norte 102;Norte 22;Norte 41;Sur 43;Este 72;Este 43;Noreste 48;Noreste 44;Sur 52;
+14;Este 50;Oeste 28;Este 52;Sur 48;Norte 35;Norte 26;Este 46;Sur 57;Sudeste 22;Este 59;Norte 48;Noreste 35;
+15;Sur 59;Este 39;Este 33;Sur 50;Norte 35;Sur 35;Este 48;Oeste 41;Oeste 52;Oeste 43;Sudeste 67;Este 37;
+16;Este 56;Este 35;Sur 50;Sur 33;Norte 41;Este 39;Noreste 33;Sur 37;Noroeste 28;Este 33;Sudeste 74;Este 30;
+17;Este 39;Este 52;Sur 41;Este 31;Este 31;Este 37;Noroeste 33;Sudeste 31;Noroeste 33;Este 57;Sudeste 70;Noreste 68;
+18;Este 56;Este 50;Sur 46;Norte 46;Sur 41;Norte 37;Oeste 31;Oeste 30;Norte 33;Este 61;Sudeste 44;Sudoeste 26;
+19;Este 48;Este 54;Este 33;Norte 56;Sur 39;Oeste 37;Sur 22;Sudoeste 65;Este 44;Este 43;Noreste 24;Norte 31;
+20;Norte 41;Este 44;Este 68;Norte 56;Sur 24;Sudoeste 33;Noroeste 28;Sur 56;Sur 48;Este 35;Norte 44;Sur 59;
+21;Sur 50;Norte 43;Este 56;Oeste 50;Oeste 37;Noroeste 43;Este 57;Norte 37;Este 37;Este 44;Norte 41;Norte 46;
+22;Sudeste 41;Sur 54;Este 56;Noroeste 35;Sudoeste 22;Sudeste 44;Sudoeste 54;Noroeste 50;Sur 61;Este 31;Sur 44;Norte 28;
+23;Este 37;Este 44;Este 28;Oeste 30;Este 31;Sudeste 41;Sur 37;Este 28;Sur 57;Norte 35;Norte 48;Oeste 83;
+24;Oeste 61;Sudeste 87;Sur 65;Noroeste 30;Noreste 33;Norte 39;Este 39;Norte 22;Sudeste 26;Norte 54;Sudeste 46;Sur 31;
+25;Este 52;Sur 63;Sur 44;Sur 43;Noreste 33;Sudoeste 63;Este 33;Este 26;Norte 39;Sur 70;Este 74;Sudeste 61;
+26;Este 44;Norte 31;Norte 39;Sudeste 30;Noreste 37;Sur 52;Este 68;Sur 59;Norte 41;Este 52;Este 70;Noreste 35;
+27;Norte 43;Sur 63;Norte 43;Este 41;Sur 37;Este 31;Oeste 48;Sur 43;Sur 50;Este 57;Este 59;Este 59;
+28;Norte 24;Norte 30;Sur 52;Noroeste 37;Sur 35;Este 33;Oeste 70;Oeste 39;Sur 56;Este 59;Este 30;Este 46;
+29;Este 44; ;Norte 22;Sur 48;Este 35;Norte 31;Sur 50;Este 37;Este 37;Sur 52;Norte 31;Norte 39;
+30;Este 61; ;Norte 31;Sur 57;Sur 37;Noreste 37;Sur 35;Norte 52;Norte 37;Sudeste 43;Noreste 44;Sur 83;
+31;Este 39; ;Norte 20; ;Este 30; ;Sudoeste 20;Este 28; ;Este 41; ;Norte 37;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2007 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Sur 57;Norte 26;Sur 63;Este 56;Sudeste 41;Sudoeste 54;Este 24;Sur 52;Este 30;Este 46;Oeste 46;Noreste 39;
+2;Sudeste 65;Norte 30;Sur 63;Noreste 43;Sudeste 46;Oeste 56;Este 28;Sur 57;Este 37;Norte 46;Sudeste 30;Este 44;
+3;Sur 43;Sudoeste 33;Este 63;Sur 20;Este 46;Oeste 39;Norte 30;Sur 43;Este 28;Este 65;Sur 83;Sudeste 43;
+4;Sudeste 39;Norte 63;Este 65;Este 30;Norte 37;Sur 22;Noroeste 19;Sur 41;Este 67;Este 33;Sur 50;Sudeste 56;
+5;Sur 48;Sur 33;Norte 31;Sudeste 43;Este 48;Noroeste 33;Sur 24;Norte 31;Este 72;Sur 68;Noroeste 50;Sur 48;
+6;Sur 43;Sur 65;Norte 30;Este 50;Sur 54;Este 24;Sudoeste 46;Oeste 31;Este 28;Sur 54;Este 24;Norte 39;
+7;Norte 44;Sur 50;Este 41;Este 39;Sur 44;Este 20;Sur 43;Oeste 48;Noreste 26;Este 57;Sudoeste 50;Noroeste 44;
+8;Norte 44;Sudeste 50;Sudoeste 41;Sur 52;Sur 50;Sudeste 30;Sudeste 50;Norte 33;Este 37;Sudeste 56;Este 65;Sur 56;
+9;Noreste 52;Sudeste 43;Oeste 50;Norte 46;Sur 30;Este 28;Sur 43;Sur 35;Este 24;Este 56;Sur 67;Noreste 37;
+10;Norte 56;Este 52;Oeste 46;Norte 43;Norte 46;Sur 33;Sudoeste 37;Oeste 65;Este 48;Sudoeste 67;Sur 48;Oeste 94;
+11;Sudeste 46;Este 50;Norte 37;Sudoeste 81;Sur 48;Este 26;Oeste 31;Oeste 35;Este 28;Este 80;Oeste 48;Sudeste 57;
+12;Sur 31;Este 52;Noroeste 41;Norte 46;Sudeste 44;Sudeste 28;Norte 31;Norte 33;Sudeste 56;Sudeste 50;Norte 57;Norte 39;
+13;Sur 52;Noreste 44;Sudeste 43;Norte 44;Este 33;Sur 48;Este 44;Sudeste 44;Este 33;Sur 30;Sudoeste 59;Norte 43;
+14;Sur 39;Sudeste 35;Noreste 37;Norte 43;Norte 28;Sur 70;Sudoeste 52;Sur 70;Este 19;Sudeste 54;Sur 56;Oeste 54;
+15;Sudeste 35;Norte 46;Sur 54;Sudeste 41;Norte 28;Sur 63;Oeste 26;Sudeste 56;Sudeste 37;Noreste 37;Noreste 44;Sudeste 52;
+16;Noroeste 30;Norte 57;Sudeste 39;Sudeste 28;Sudoeste 57;Norte 33;Oeste 31;Este 52;Sudeste 65;Sudoeste 30;Noreste 48;Este 44;
+17;Noroeste 59;Oeste 67;Este 28;Sur 81;Noreste 24;Sudoeste 37;Sudeste 22;Sur 48;Este 67;Noroeste 30;Noreste 37;Norte 31;
+18;Sur 65;Sudoeste 35;Este 30;Noreste 28;Noroeste 31;Sudoeste 26;Oeste 37;Este 48;Este 70;Este 41;Sur 46;Este 54;
+19;Este 56;Norte 33;Este 24;Norte 37;Oeste 22;Este 24;Noroeste 41;Este 46;Oeste 57;Sudeste 61;Este 52;Este 33;
+20;Este 44;Sudeste 48;Norte 35;Sur 63;Norte 33;Sur 31;Oeste 46;Sur 33;Este 31;Norte 63;Este 35;Norte 24;
+21;Este 52;Este 59;Norte 33;Sudeste 52;Sudoeste 24;Este 50;Este 48;Este 31;Este 31;Oeste 31;Este 56;Sudeste 74;
+22;Noreste 52;Noreste 39;Oeste 74;Sur 54;Sur 41;Sudeste 50;Sudoeste 61;Este 33;Este 39;Este 31;Oeste 72;Sudeste 63;
+23;Norte 85;Este 30;Oeste 44;Sur 37;Sur 46;Oeste 54;Oeste 57;Sudeste 30;Sudoeste 67;Este 31;Sur 54;Este 48;
+24;Este 28;Oeste 31;Este 39;Sur 31;Norte 30;Oeste 48;Sur 41;Sur 56;Sudoeste 50;Norte 54;Sudoeste 35;Este 61;
+25;Sudeste 59;Este 20;Oeste 57;Sur 39;Norte 35;Oeste 28;Oeste 44;Este 56;Este 41;Sur 87;Norte 37;Sudeste 61;
+26;Este 48;Sur 74;Norte 41;Sudoeste 43;Noroeste 30;Norte 30;Noroeste 57;Sudoeste 35;Este 52;Norte 43;Este 43;Este 52;
+27;Sur 33;Norte 67;Sur 44;Sur 19;Oeste 43;Oeste 33;Sur 52;Noroeste 44;Este 28;Sudoeste 50;Este 33;Este 54;
+28;Este 43;Sudeste 46;Este 57;Norte 33;Sudoeste 50;Noroeste 35;Sur 37;Noroeste 39;Oeste 30;Norte 46;Este 43;Sudeste 41;
+29;Este 37; ;Este 41;Norte 28;Sudoeste 37;Noroeste 35;Norte 37;Este 41;Sudeste 30;Sudeste 46;Este 50;Noroeste 41;
+30;Este 41; ;Este 68;Norte 39;Este 26;Sudeste 24;Norte 33;Sudeste 37;Norte 48;Este 46;Este 52;Sudeste 33;
+31;Este 30; ;Sudeste 65; ;Norte 33; ;Este 24;Sudeste 22; ;Sudoeste 52; ;Norte 24;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2008 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Sudoeste 65;Este 31;Sudeste 56;Oeste 70;Sudeste 20;Norte 31;Este 44;Este 26;Noreste 24;Este 17;Norte 31;Sur 52;
+2;Sur 65;Sur 59;Este 52;Sur 33;Este 46;Sudeste 37;Este 39;Sur 57;Sur 57;Noroeste 28;Sudeste 52;Sur 52;
+3;Sudeste 70;Sur 44;Sur 41;Norte 22;Este 46;Sudeste 37;Este 31;Sur 52;Sur 56;Sur 26;Sudeste 56;Sudeste 28;
+4;Sur 57;Oeste 35;Sur 50;Oeste 35;Este 35;Norte 43;Norte 31;Norte 37;Sur 43;Sur 24;Este 26;Este 39;
+5;Este 46;Este 41;Oeste 61;Oeste 30;Noroeste 20;Oeste 33;Noroeste 31;Oeste 35;Sudeste 26;Norte 22;Norte 28;Este 31;
+6;Oeste 37;Norte 24;Sudoeste 56;Sudeste 44;Norte 26;Sudoeste 41;Sudeste 67;Norte 41;Sudoeste 37;Oeste 50;Sudeste 56;Noroeste 22;
+7;Norte 63;Sudeste 87;Sudoeste 37;Este 37;Sur 35;Norte 15;Oeste 59;Sur 52;Sudoeste 9;Sur 43;Este 41;Este 30;
+8;Noreste 24;Este 61;Oeste 44;Sudoeste 33;Oeste 24;Este 31;Norte 28;Norte 28;Este 22;Este 37;Sudeste 52;Sudoeste 35;
+9;Oeste 37;Sur 39;Este 20;Noroeste 30;Norte 20;Sudoeste 46;Sudeste 48;Norte 19;Norte 28;Noreste 44;Sudeste 46;Sudoeste 35;
+10;Sur 57;Sur 46;Sur 56;Noroeste 39;Norte 19;Noroeste 41;Sudeste 44;Norte 41;Sudeste 39;Noreste 28;Sudeste 31;Este 59;
+11;Sur 46;Sudeste 41;Sudeste 33;Sur 54;Este 28;Oeste 44;Sudeste 24;Sur 57;Sur 37;Sudeste 65;Noreste 26;Este 59;
+12;Noreste 46;Este 37;Sur 26;Sur 48;Norte 30;Sur 28;Noreste 33;Sudoeste 46;Sur 28;Este 44;Norte 48;Este 44;
+13;Sudeste 57;Este 35;Este 30;Sudoeste 63;Norte 28;Noroeste 39;Sur 52;Norte 31;Oeste 52;Sudeste 52;Este 33;Este 46;
+14;Este 52;Norte 37;Este 43;Sudoeste 44;Norte 24;Oeste 65;Este 33;Este 39;Sur 22;Este 52;Norte 50;Este 52;
+15;Norte 74;Sur 56;Norte 50;Norte 26;Este 44;Oeste 61;Norte 26;Noreste 39;Sur 26;Este 43;Sur 80;Este 48;
+16;Sudoeste 109;Este 57;Noreste 41;Norte 39;Sudeste 43;Noroeste 41;Noreste 30;Sur 52;Este 41;Este 43;Sudeste 41;Norte 50;
+17;Sur 31;Sudeste 44;Norte 28;Noroeste 35;Norte 39;Norte 33;Sur 70;Sur 50;Noreste 44;Este 30;Noreste 30;Sudeste 43;
+18;Este 63;Este 54;Este 54;Oeste 20;Este 37;Este 56;Sudoeste 44;Sudeste 46;Este 57;Este 37;Sudeste 59;Este 44;
+19;Este 46;Este 37;Sur 91;Noroeste 17;Norte 17;Sur 85;Sudeste 39;Este 61;Este 28;Noreste 41;Sudeste 52;Este 50;
+20;Este 28;Oeste 35;Sur 30;Este 33;Este 68;Sur 85;Este 67;Sur 41;Sudoeste 37;Este 30;Sudeste 54;Noreste 48;
+21;Este 48;Sudeste 46;Sur 85;Norte 31;Sudoeste 63;Sur 39;Este 70;Sudoeste 44;Sudoeste 30;Sur 52;Noreste 59;Sur 68;
+22;Este 63;Oeste 39;Sur 54;Norte 31;Este 59;Sudoeste 20;Sur 63;Oeste 33;Este 41;Sudoeste 52;Noreste 59;Este 50;
+23;Este 61;Este 46;Sudeste 37;Oeste 39;Sudoeste 63;Sur 22;Sudeste 31;Este 48;Norte 28;Este 20;Noreste 56;Este 44;
+24;Este 59;Este 46;Este 30;Oeste 39;Sudoeste 56;Sudeste 35;Oeste 35;Este 26;Este 30;Norte 31;Este 30;Este 22;
+25;Este 68;Este 50;Norte 43;Sur 39;Sur 39;Este 35;Este 26;Este 31;Sudeste 44;Sudeste 54;Este 46;Este 65;
+26;Este 63;Este 44;Norte 59;Este 46;Noreste 28;Este 20;Este 35;Noreste 35;Este 41;Sudeste 65;Este 37;Este 44;
+27;Sudeste 54;Este 44;Sur 67;Norte 26;Sur 33;Sudoeste 26;Este 41;Sur 50;Noreste 41;Sur 57;Noroeste 61;Noreste 48;
+28;Norte 41;Este 67;Sudeste 46;Sudoeste 44;Sur 57;Norte 22;Sudeste 41;Sudoeste 48;Norte 30;Sudeste 57;Sudoeste 67;Sur 48;
+29;Este 50;Este 35;Este 43;Oeste 50;Sudoeste 52;Norte 33;Este 33;Oeste 15;Sudoeste 26;Sur 44;Este 44;Sudeste 46;
+30;Este 61; ;Este 44;Este 24;Sudoeste 33;Norte 44;Sur 30;Norte 37;Este 26;Sur 28;Sur 67;Norte 30;
+31;Este 54; ;Sudeste 37; ;Norte 22; ;Sudeste 31;Norte 37; ;Este 28; ;Este 54;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2009 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Este 54;Sur 56;Oeste 63;Sudeste 43;Norte 31;Sudoeste 48;Sudoeste 31;Sudeste 41;Este 65;Este 41;Este 72;Norte 61;
+2;Este 46;Norte 39;Noroeste 80;Norte 54;Este 19;Sur 41;Noroeste 22;Sudeste 30;Sudeste 67;Norte 26;Sur 63;Sur 50;
+3;Este 26;Sudoeste 48;Este 50;Norte 33;Norte 24;Noroeste 56;Noroeste 30;Este 24;Sudeste 65;Noreste 41;Sur 50;Sur 52;
+4;Noroeste 26;Este 54;Sudeste 44;Oeste 68;Sudoeste 50;Noroeste 39;Noreste 22;Norte 37;Este 56;Noreste 46;Noreste 41;Noreste 43;
+5;Norte 30;Noreste 59;Sur 26;Norte 37;Sudoeste 24;Sudoeste 46;Norte 20;Sur 65;Norte 31;Norte 70;Este 35;Norte 43;
+6;Sudoeste 57;Oeste 59;Este 28;Noroeste 30;Oeste 31;Este 28;Noreste 39;Sudoeste 43;Sudeste 35;Sur 56;Sur 43;Este 48;
+7;Este 50;Sur 31;Sudeste 48;Sudeste 59;Norte 22;Norte 28;Sur 56;Este 31;Sur 80;Sur 43;Sudeste 57;Este 48;
+8;Este 26;Norte 31;Este 48;Sudeste 48;Sudoeste 17;Este 28;Sur 46;Sur 28;Sur 57;Este 41;Norte 44;Este 41;
+9;Norte 30;Este 43;Este 48;Oeste 31;Norte 22;Norte 22;Norte 37;Noroeste 22;Norte 30;Norte 33;Sur 44;Este 54;
+10;Este 61;Este 72;Sudeste 56;Noroeste 33;Noroeste 31;Sur 43;Sur 44;Noroeste 31;Norte 30;Oeste 96;Sur 44;Norte 33;
+11;Este 54;Sudoeste 57;Este 46;Oeste 39;Sudeste 56;Sudeste 30;Oeste 37;Norte 35;Este 39;Sur 61;Norte 44;Sudeste 50;
+12;Este 50;Sur 33;Sur 39;Norte 20;Sudeste 56;Norte 22;Norte 37;Norte 44;Este 35;Sur 33;Noroeste 41;Este 54;
+13;Este 48;Norte 33;Oeste 22;Sudeste 61;Sudeste 56;Norte 33;Sudoeste 48;Este 54;Este 35;Sur 57;Sur 61;Este 39;
+14;Este 37;Noroeste 30;Sur 94;Sudeste 41;Sur 48;Norte 31;Norte 20;Sudeste 46;Norte 41;Este 50;Este 59;Oeste 39;
+15;Sudeste 28;Noreste 43;Sur 59;Noreste 37;Norte 24;Sur 35;Este 30;Sudeste 57;Este 30;Este 37;Sudeste 52;Este 57;
+16;Norte 33;Noreste 46;Norte 48;Norte 43;Norte 56;Sur 22;Este 28;Sur 78;Sur 43;Norte 37;Norte 56;Este 44;
+17;Sur 59;Este 20;Noroeste 24;Norte 24;Norte 37;Norte 33;Sur 26;Sur 26;Este 87;Norte 39;Este 57;Este 48;
+18;Sur 56;Este 37;Noroeste 28;Sur 67;Sur 33;Norte 35;Sudeste 48;Este 35;Sur 67;Este 43;Este 63;Noreste 52;
+19;Sudeste 31;Este 31;Norte 43;Sur 41;Noreste 33;Noreste 24;Noreste 41;Este 63;Oeste 54;Noreste 44;Sudeste 72;Sudoeste 85;
+20;Noroeste 28;Oeste 56;Sudeste 22;Este 22;Norte 33;Sur 43;Este 43;Sudeste 35;Noroeste 31;Sur 50;Este 43;Este 43;
+21;Este 19;Sudeste 56;Noreste 24;Norte 31;Noroeste 33;Sur 48;Sudeste 67;Norte 43;Noroeste 31;Este 43;Norte 104;Este 37;
+22;Norte 48;Este 68;Norte 33;Este 19;Norte 24;Sudoeste 20;Oeste 78;Norte 48;Sur 76;Norte 33;Este 39;Noreste 43;
+23;Norte 44;Sudoeste 31;Este 31;Sur 41;Sudeste 44;Sudoeste 39;Oeste 65;Sur 30;Sur 50;Sudeste 93;Este 48;Este 57;
+24;Oeste 44;Este 31;Este 37;Sur 46;Este 46;Sur 28;Oeste 39;Este 31;Este 35;Sur 44;Este 59;Sur 72;
+25;Sudeste 72;Norte 31;Noreste 41;Norte 24;Este 37;Noroeste 20;Norte 46;Norte 26;Norte 54;Norte 44;Sudeste 56;Este 44;
+26;Este 54;Este 46;Este 26;Este 31;Sur 46;Este 31;Oeste 31;Norte 26;Este 43;Sur 68;Sur 33;Este 63;
+27;Este 61;Este 46;Este 28;Norte 26;Oeste 24;Este 28;Oeste 43;Este 48;Sur 67;Norte 43;Este 43;Sudeste 46;
+28;Este 67;Noreste 46;Noroeste 30;Oeste 37;Sur 24;Este 43;Este 26;Este 44;Sur 56;Norte 37;Sudeste 39;Sudeste 46;
+29;Este 63; ;Norte 35;Sudeste 57;Sudeste 24;Oeste 65;Oeste 44;Norte 31;Sudeste 43;Norte 89;Sudoeste 72;Sudeste 63;
+30;Sur 50; ;Sudeste 65;Este 44;Sur 30;Oeste 59;Sudeste 20;Sudeste 52;Este 52;Sur 57;Oeste 37;Sur 57;
+31;Oeste 54; ;Sudeste 37; ;Oeste 43; ;Este 44;Sudeste 67; ;Este 76; ;Este 52;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2010 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Noreste 54;Norte 26;Norte 41;Sur 37;Noroeste 33;Noreste 37;Norte 30;Sudoeste 48;Sur 72;Sur 44;Oeste 31;Norte 44;
+2;Noreste 19;Norte 46;Sudeste 41;Norte 31;Noroeste 28;Noreste 35;Este 39;Sudeste 37;Sudeste 74;Sudoeste 35;Este 30;Norte 41;
+3;Sudeste 46;Norte 107;Noreste 44;Sur 52;Sur 33;Norte 24;Este 22;Sudeste 41;Este 59;Norte 33;Noroeste 43;Sur 43;
+4;Este 52;Este 48;Oeste 31;Sur 46;Sur 43;Sur 35;Norte 28;Sur 37;Sur 68;Norte 30;Sudoeste 30;Norte 48;
+5;Sudeste 33;Norte 43;Oeste 41;Sudeste 39;Norte 33;Oeste 41;Sur 63;Este 37;Este 31;Este 41;Sur 43;Este 50;
+6;Sur 65;Norte 44;Sudoeste 22;Este 44;Sudoeste 50;Noroeste 44;Este 76;Norte 39;Noroeste 30;Sur 33;Oeste 48;Norte 46;
+7;Este 31;Norte 52;Sudeste 35;Noreste 41;Sur 28;Este 41;Sudoeste 43;Sudeste 24;Este 41;Sudoeste 48;Noreste 43;Noroeste 39;
+8;Noreste 54;Oeste 48;Este 44;Este 41;Sur 24;Este 35;Norte 26;Sur 37;Sudeste 31;Sudeste 33;Sudeste 74;Sudoeste 61;
+9;Este 28;Norte 37;Sudeste 41;Noreste 37;Oeste 17;Sudeste 43;Sur 31;Oeste 22;Este 31;Este 44;Sur 54;Norte 44;
+10;Este 56;Este 57;Norte 41;Norte 37;Sudeste 26;Este 48;Norte 43;Este 26;Sur 61;Este 43;Sur 43;Este 87;
+11;Noreste 56;Este 50;Sur 37;Norte 33;Este 39;Este 44;Sur 63;Noreste 30;Sudoeste 46;Noreste 52;Este 33;Sudeste 72;
+12;Oeste 85;Este 43;Sur 31;Este 24;Noreste 28;Noreste 37;Sur 59;Sur 80;Este 61;Noreste 46;Este 39;Sudeste 74;
+13;Oeste 65;Oeste 52;Norte 61;Sur 39;Norte 33;Este 30;Oeste 46;Sur 70;Sudeste 61;Noreste 44;Sur 48;Oeste 52;
+14;Noroeste 35;Sur 56;Sudoeste 48;Sudoeste 37;Norte 43;Noreste 59;Oeste 41;Sur 43;Sudoeste 52;Sur 37;Este 46;Norte 46;
+15;Norte 39;Este 59;Sur 41;Oeste 57;Sur 52;Sudoeste 35;Sur 37;Noreste 37;Oeste 26;Sudoeste 41;Este 54;Noroeste 28;
+16;Sur 68;Este 65;Norte 48;Noroeste 30;Sur 57;Este 50;Sur 22;Norte 54;Sudoeste 33;Sur 48;Este 50;Noreste 57;
+17;Norte 41;Este 50;Sur 59;Norte 33;Sudeste 30;Sudeste 43;Sudeste 26;Este 22;Sur 50;Sudoeste 50;Sudeste 48;Sur 83;
+18;Oeste 81;Noreste 56;Norte 33;Sudoeste 48;Este 44;Este 41;Este 80;Oeste 22;Noreste 48;Este 26;Oeste 30;Este 56;
+19;Sur 63;Sur 72;Este 26;Este 26;Este 31;Oeste 61;Norte 50;Sur 37;Noreste 41;Este 30;Norte 20;Este 48;
+20;Sudeste 28;Este 54;Este 43;Sur 31;Este 31;Oeste 57;Oeste 41;Noreste 20;Sudeste 59;Norte 33;Este 33;Norte 28;
+21;Norte 33;Este 78;Este 52;Noreste 20;Sudeste 35;Sur 37;Sudoeste 37;Este 24;Sudeste 65;Norte 41;Sur 50;Norte 26;
+22;Este 50;Este 59;Oeste 43;Sur 43;Noreste 31;Norte 39;Sur 37;Este 28;Este 31;Sur 54;Este 48;Este 28;
+23;Este 39;Sur 44;Noroeste 46;Noreste 43;Noreste 35;Norte 48;Este 33;Sur 98;Este 52;Este 56;Este 41;Sur 57;
+24;Norte 31;Sur 54;Este 57;Noreste 44;Oeste 37;Sudoeste 59;Este 48;Sur 44;Este 41;Este 31;Este 28;Sur 33;
+25;Este 44;Este 26;Este 44;Sudeste 43;Sudoeste 35;Sur 35;Sudoeste 52;Este 35;Sudeste 43;Este 41;Sudeste 54;Oeste 52;
+26;Este 39;Este 17;Este 43;Sur 31;Este 54;Este 50;Oeste 44;Este 31;Este 43;Este 41;Norte 41;Sudeste 44;
+27;Noreste 39;Norte 26;Sur 37;Oeste 28;Este 48;Sur 54;Norte 30;Este 31;Sudeste 59;Este 57;Oeste 54;Este 37;
+28;Norte 41;Sudeste 37;Este 26;Oeste 26;Noreste 37;Norte 35;Noroeste 31;Norte 33;Este 59;Este 57;Sudeste 28;Este 44;
+29;Norte 37; ;Noreste 22;Sur 24;Este 33;Norte 31;Este 46;Sur 81;Oeste 59;Oeste 57;Noreste 33;Este 48;
+30;Sudeste 78; ;Este 39;Noroeste 44;Sur 52;Norte 35;Sur 54;Este 59;Oeste 52;Oeste 70;Noreste 43;Este 59;
+31;Sur 54; ;Sudoeste 39; ;Sur 52; ;Sudoeste 43;Este 44; ;Sudoeste 70; ;Sudeste 63;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2011 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Este 67;Sur 56;Este 52;Este 48;Sur 70;Norte 19;Oeste 31;Sur 35;Noreste 43;Este 44;Norte 56;Sur 37;
+2;Este 70;Norte 43;Noreste 48;Este 28;Sur 48;Norte 28;Sur 31;Oeste 35;Noreste 46;Sudoeste 59;Norte 52;Este 52;
+3;Sudeste 63;Sur 68;Noroeste 52;Sur 65;Norte 30;Sur 44;Oeste 54;Sudoeste 57;Norte 31;Sur 46;Norte 39;Este 56;
+4;Este 54;Sur 63;Este 48;Sur 57;Noroeste 52;Sur 31;Oeste 33;Norte 39;Sur 57;Este 43;Sudeste 48;Sur 59;
+5;Oeste 39;Sudeste 54;Este 61;Oeste 37;Noroeste 44;Norte 39;Oeste 37;Norte 46;Sudoeste 52;Norte 26;Este 44;Este 50;
+6;Noroeste 68;Sudeste 54;Sudeste 52;Sur 37;Sur 28;Norte 30;Norte 19;Sudeste 37;Oeste 44;Sudeste 59;Sur 48;Este 37;
+7;Sudoeste 41;Sudeste 72;Noreste 43;Norte 41;Noroeste 31;Sudoeste 24;Noroeste 37;Este 59;Este 17;Este 81;Este 46;Este 33;
+8;Sudoeste 41;Sudeste 63;Norte 30;Sur 44;Sur 56;Norte 39;Norte 24;Este 68;Norte 31;Este 31;Norte 41;Sur 50;
+9;Sudeste 56;Este 65;Este 41;Este 37;Norte 33;Oeste 50;Norte 28;Este 52;Noroeste 28;Oeste 44;Este 70;Este 48;
+10;Sudeste 56;Este 48;Sudeste 54;Noreste 39;Norte 31;Noroeste 24;Norte 26;Este 37;Sudoeste 61;Oeste 33;Oeste 52;Sur 43;
+11;Sudeste 70;Este 44;Noreste 35;Noroeste 26;Sur 15;Noroeste 37;Este 22;Sudeste 24;Noroeste 39;Este 65;Este 24;Sur 67;
+12;Este 39;Este 41;Oeste 61;Norte 19;Sudeste 35;Sudoeste 52;Sur 28;Sudeste 81;Sudeste 57;Este 61;Este 37;Oeste 61;
+13;Este 30;Sudoeste 48;Oeste 59;Sur 78;Este 39;Sudoeste 41;Sudeste 39;Sudeste 37;Este 46;Sur 33;Este 52;Sur 59;
+14;Sudeste 67;Sudeste 44;Sur 41;Sur 44;Este 43;Noreste 33;Este 31;Este 37;Noreste 50;Sur 37;Este 43;Este 57;
+15;Este 52;Norte 48;Este 43;Sur 46;Este 33;Norte 33;Sur 72;Este 35;Norte 50;Oeste 39;Este 35;Este 61;
+16;Sudoeste 87;Noroeste 44;Este 37;Este 44;Noreste 33;Sur 28;Sur 44;Sur 46;Noreste 33;Sudeste 43;Este 39;Sur 63;
+17;Sudoeste 33;Noreste 41;Norte 33;Este 56;Norte 33;Sudeste 59;Este 65;Sudoeste 41;Sur 57;Este 43;Este 46;Sur 44;
+18;Sudeste 44;Este 41;Oeste 50;Oeste 28;Noreste 37;Noreste 48;Este 65;Sur 54;Sur 56;Este 35;Este 50;Este 31;
+19;Sudoeste 65;Sudeste 50;Noroeste 30;Noreste 24;Norte 35;Oeste 31;Oeste 46;Sur 65;Sur 26;Este 26;Oeste 57;Este 48;
+20;Sudeste 48;Este 61;Norte 31;Norte 35;Norte 31;Sudeste 41;Oeste 33;Oeste 59;Norte 22;Norte 30;Sur 54;Este 33;
+21;Norte 46;Este 57;Noreste 22;Norte 41;Norte 26;Este 44;Noroeste 26;Este 28;Noroeste 30;Norte 56;Sur 41;Sur 78;
+22;Norte 41;Este 61;Sur 54;Sur 48;Sur 41;Este 61;Norte 37;Sudeste 28;Sudeste 65;Este 54;Sur 44;Sur 61;
+23;Este 43;Este 48;Sur 78;Sur 50;Sur 35;Este 56;Norte 37;Norte 39;Sur 52;Este 44;Sur 37;Este 59;
+24;Noreste 43;Sur 44;Sudeste 46;Noroeste 43;Sudeste 52;Sur 39;Norte 31;Noreste 43;Norte 43;Este 52;Norte 24;Sur 37;
+25;Norte 70;Sudeste 46;Este 46;Oeste 33;Sudeste 56;Sudeste 56;Sudoeste 68;Sur 46;Norte 43;Sur 56;Norte 39;Este 41;
+26;Norte 41;Sur 19;Oeste 50;Norte 28;Sur 35;Sudoeste 48;Oeste 43;Noreste 44;Este 57;Sur 54;Este 37;Norte 52;
+27;Sudoeste 37;Sudeste 31;Sur 41;Norte 28;Este 39;Noroeste 35;Norte 30;Este 48;Este 46;Oeste 46;Este 54;Este 50;
+28;Sudeste 52;Este 50;Este 28;Este 39;Este 43;Norte 37;Sur 35;Oeste 41;Norte 48;Sur 35;Este 37;Este 46;
+29;Sudeste 48; ;Norte 39;Este 56;Noreste 37;Noroeste 41;Sur 59;Sudeste 24;Sur 56;Sur 59;Este 57;Norte 41;
+30;Este 46; ;Norte 39;Este 30;Este 28;Oeste 59;Sur 59;Oeste 59;Este 44;Sur 41;Sur 70;Este 41;
+31;Norte 68; ;Norte 19; ;Sudoeste 22; ;Sur 35;Sur 35; ;Este 48; ;Este 57;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2012 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Este 39;Este 52;Sur 68;Norte 37;Norte 39;Norte 35;Sur 39;Este 30;Norte 15;Este 39;Oeste 24;Oeste 37;
+2;Sur 59;Este 63;Norte 26;Este 44;Norte 35;Oeste 56;Sur 63;Este 35;Este 61;Este 54;Norte 26;Norte 26;
+3;Sur 41;Este 26;Noroeste 43;Este 24;Norte 28;Sudoeste 44;Sur 35;Sur 54;Este 65;Sur 46;Este 44;Oeste 78;
+4;Este 30;Norte 35;Norte 30;Oeste 105;Este 20;Oeste 30;Sur 33;Sur 35;Este 48;Este 39;Este 46;Este 57;
+5;Norte 37;Norte 44;Sur 70;Sur 54;Este 46;Noroeste 37;Oeste 43;Sur 22;Sur 48;Sur 37;Oeste 39;Sur 56;
+6;Este 83;Este 33;Oeste 33;Norte 48;Este 41;Oeste 65;Sur 22;Este 41;Sur 57;Sur 41;Oeste 35;Sur 46;
+7;Este 56;Oeste 70;Este 31;Norte 46;Norte 39;Oeste 33;Norte 48;Este 50;Este 61;Sur 63;Norte 31;Sur 81;
+8;Norte 46;Sur 78;Este 44;Sur 46;Sur 37;Sur 37;Norte 57;Norte 43;Sur 43;Este 46;Norte 43;Oeste 54;
+9;Este 33;Sur 59;Este 50;Este 37;Sur 39;Norte 33;Norte 31;Norte 35;Este 46;Sur 56;Sur 81;Oeste 41;
+10;Sur 63;Sur 43;Sudoeste 72;Sur 39;Sur 52;Norte 28;Oeste 41;Este 35;Este 35;Sur 63;Sur 61;Sur 87;
+11;Sur 65;Oeste 30;Este 46;Este 24;Oeste 48;Norte 30;Norte 41;Este 41;Norte 39;Este 37;Este 59;Oeste 31;
+12;Sur 67;Norte 31;Oeste 78;Este 22;Oeste 46;Norte 37;Oeste 41;Sur 50;Norte 35;Norte 56;Este 48;Sur 35;
+13;Este 46;Este 31;Oeste 31;Este 24;Norte 22;Este 17;Sur 41;Este 37;Norte 33;Norte 44;Este 52;Sur 50;
+14;Sur 41;Norte 31;Oeste 44;Oeste 20;Norte 28;Sur 37;Sur 46;Este 33;Sur 37;Este 48;Este 48;Norte 61;
+15;Norte 35;Oeste 26;Sur 39;Sur 30;Este 30;Sur 57;Sur 33;Norte 39;Sur 63;Este 46;Este 41;Oeste 28;
+16;Este 41;Sur 81;Norte 28;Norte 26;Norte 37;Sur 54;Este 24;Este 44;Este 56;Oeste 56;Este 46;Norte 63;
+17;Este 52;Este 50;Norte 43;Oeste 46;Norte 50;Este 41;Norte 28;Este 43;Sur 78;Oeste 57;Este 56;Sur 48;
+18;Norte 39;Sur 57;Norte 30;Este 28;Norte 46;Oeste 24;Norte 39;Oeste 54;Este 87;Este 30;Norte 50;Este 39;
+19;Norte 37;Oeste 50;Sur 83;Sur 65;Sur 20;Noroeste 30;Norte 22;Este 44;Sur 80;Norte 59;Norte 24;Norte 50;
+20;Este 39;Norte 44;Este 43;Sur 54;Sur 31;Norte 24;Norte 28;Sur 44;Oeste 54;Norte 35;Este 48;Sur 67;
+21;Este 33;Sur 59;Oeste 28;Sur 61;Este 56;Norte 24;Oeste 41;Sur 50;Sudoeste 48;Sur 61;Este 44;Oeste 33;
+22;Este 39;Sur 44;Sur 72;Sur 22;Sur 24;Oeste 35;Sur 39;Norte 37;Oeste 46;Este 78;Este 52;Norte 46;
+23;Este 48;Sur 54;Sur 31;Sur 43;Este 37;Noroeste 31;Norte 30;Norte 43;Norte 35;Oeste 65;Sur 41;Norte 54;
+24;Oeste 63;Este 44;Norte 26;Sur 26;Este 30;Sur 56;Sur 52;Oeste 68;Sur 67;Oeste 46;Este 57;Norte 44;
+25;Sur 63;Sur 87;Norte 33;Este 22;Norte 28;Sur 37;Noroeste 41;Sur 44;Sur 57;Sur 31;Este 50;Sur 74;
+26;Este 57;Oeste 54;Sur 68;Oeste 46;Noreste 31;Norte 30;Sur 43;Sur 39;Sur 33;Norte 33;Norte 74;Sur 50;
+27;Este 56;Este 56;Oeste 57;Sur 37;Norte 41;Norte 33;Norte 31;Sur 39;Este 43;Este 44;Norte 50;Este 35;
+28;Norte 59;Sur 83;Noroeste 44;Sur 28;Norte 20;Sur 50;Norte 28;Este 41;Este 44;Este 50;Sur 65;Norte 43;
+29;Sur 65;Norte 26;Norte 35;Oeste 28;Oeste 50;Este 37;Sur 68;Norte 44;Este 35;Este 83;Este 67;Norte 31;
+30;Oeste 52; ;Este 43;Norte 28;Sur 41;Este 41;Este 35;Norte 37;Sur 39;Sur 68;Este 50;Norte 35;
+31;Oeste 72; ;Este 39; ;Este 22; ;Este 50;Este 17; ;Norte 37; ;Sur 74;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2013 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Sur 65;Sur 67;Noreste 52;Sur 61;Este 35;Norte 30;Sur 20;Sur 39;Este 24;Sudoeste 28;Sur 44;Norte 28;
+2;Sur 37;Sur 83;Oeste 54;Este 48;Este 46;Oeste 44;Norte 41;Sudoeste 33;Sudeste 43;Este 44;Sur 41;Oeste 94;
+3;Norte 39;Sur 52;Oeste 39;Sur 26;Este 68;Norte 43;Norte 43;Este 13;Sur 44;Este 59;Sur 28;Sur 76;
+4;Norte 89;Este 33;Oeste 35;Oeste 28;Sur 33;Oeste 46;Este 22;Noroeste 20;Este 28;Este 50;Este 37;Norte 37;
+5;Sur 54;Este 33;Norte 30;Oeste 44;Oeste 28;Oeste 56;Este 30;Norte 28;Norte 54;Noreste 30;Este 31;Sudeste 35;
+6;Oeste 24;Este 48;Norte 41;Oeste 63;Oeste 61;Oeste 59;Oeste 54;Norte 24;Sudeste 41;Este 26;Norte 54;Este 39;
+7;Sur 52;Norte 48;Este 35;Norte 24;Sur 44;Sur 46;Sur 43;Sudoeste 57;Sudeste 50;Noreste 35;Sur 57;Norte 24;
+8;Sur 31;Sur 46;Este 44;Norte 19;Norte 44;Este 33;Este 37;Sur 24;Oeste 20;Noreste 56;Este 28;Sudoeste 65;
+9;Sur 44;Este 43;Norte 68;Este 43;Norte 30;Norte 33;Este 46;Sudoeste 30;Norte 22;Sur 61;Este 59;Noreste 72;
+10;Este 41;Oeste 70;Sur 59;Este 52;Norte 33;Noroeste 28;Este 22;Noroeste 26;Norte 41;Este 43;Este 43;Este 43;
+11;Norte 44;Oeste 28;Norte 35;Este 54;Oeste 37;Norte 17;Norte 22;Norte 46;Este 33;Este 74;Sur 35;Norte 33;
+12;Norte 48;Oeste 37;Sur 48;Oeste 50;Sur 22;Norte 28;Sur 22;Sur 61;Sur 54;Este 61;Sudeste 50;Norte 22;
+13;Este 33;Norte 44;Sudoeste 37;Oeste 43;Este 24;Sur 50;Norte 33;Sur 46;Sur 61;Este 52;Este 46;Este 31;
+14;Este 41;Este 52;Sur 39;Oeste 46;Sudoeste 67;Sur 56;Sur 33;Norte 22;Sur 61;Este 19;Norte 44;Norte 28;
+15;Norte 43;Norte 37;Sur 37;Sur 41;Oeste 56;Norte 39;Noroeste 35;Norte 50;Sur 68;Noreste 20;Oeste 74;Sur 54;
+16;Oeste 50;Norte 46;Este 39;Sur 30;Oeste 43;Sur 54;Noroeste 39;Norte 35;Sur 68;Norte 28;Sur 33;Este 30;
+17;Sur 44;Sur 70;Sur 48;Norte 22;Norte 26;Sur 28;Oeste 33;Este 19;Oeste 57;Oeste 39;Norte 30;Sudoeste 41;
+18;Sur 43;Este 56;Este 56;Norte 20;Norte 31;Oeste 48;Sur 74;Norte 28;Oeste 54;Sudoeste 28;Norte 41;Sudeste 44;
+19;Este 63;Este 52;Este 56;Norte 24;Sur 26;Sur 50;Noroeste 28;Norte 35;Norte 39;Norte 46;Este 46;Este 48;
+20;Sur 48;Este 65;Este 54;Este 26;Sur 33;Norte 24;Sudoeste 46;Este 22;Norte 30;Norte 54;Este 37;Este 56;
+21;Este 52;Este 48;Oeste 46;Sur 30;Sur 28;Norte 31;Oeste 50;Este 22;Sur 56;Sur 54;Sudeste 28;Noreste 41;
+22;Este 50;Este 48;Sur 33;Este 31;Sur 33;Sur 48;Oeste 52;Sudoeste 83;Sur 43;Noreste 44;Norte 30;Este 37;
+23;Este 28;Norte 59;Norte 35;Este 19;Norte 26;Sur 28;Oeste 35;Sudoeste 33;Este 39;Sudeste 68;Noreste 52;Este 37;
+24;Sur 65;Norte 44;Este 31;Este 30;Oeste 33;Este 43;Oeste 15;Sur 35;Este 33;Sur 59;Norte 50;Norte 33;
+25;Sur 67;Sur 48;Oeste 54;Norte 28;Noreste 31;Este 30;Norte 37;Sudeste 33;Este 41;Este 54;Sur 54;Norte 22;
+26;Norte 31;Sur 41;Sur 30;Este 41;Norte 31;Oeste 31;Norte 39;Sur 35;Norte 50;Norte 48;Este 70;Sudoeste 50;
+27;Norte 39;Este 17;Este 24;Este 46;Este 28;Norte 31;Norte 17;Noroeste 28;Este 56;Sur 56;Sur 56;Sur 22;
+28;Norte 39;Sudeste 46;Norte 24;Norte 48;Oeste 80;Norte 33;Este 17;Noroeste 33;Este 43;Norte 44;Oeste 33;Sudeste 30;
+29;Este 43; ;Norte 33;Sur 31;Oeste 54;Oeste 46;Este 19;Noroeste 37;Oeste 37;Noreste 44;Este 48;Oeste 22;
+30;Este 43; ;Este 31;Este 31;Oeste 48;Sur 28;Este 28;Norte 19;Oeste 44;Este 48;Este 28;Este 48;
+31;Este 31; ;Este 61; ;Norte 44; ;Sur 50;Este 17; ;Este 39; ;Este 61;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2014 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Norte 28;Sudeste 46;Este 22;Este 57;Sudoeste 28;Sudoeste 19;Norte 15;Oeste 13;Sudeste 30;Este 52;Sudeste 74;Sur 46;
+2;Sur 57;Norte 68;Este 41;Este 50;Noroeste 28;Norte 22;Norte 28;Este 22;Este 76;Este 61;Este 78;Sur 30;
+3;Sur 54;Norte 52;Este 54;Sudeste 33;Norte 24;Norte 52;Norte 17;Sudeste 22;Este 39;Este 52;Este 78;Sudoeste 26;
+4;Norte 52;Norte 26;Este 72;Este 41;Sudeste 19;Norte 52;Este 44;Sudoeste 46;Este 52;Este 65;Sudoeste 43;Noreste 20;
+5;Noroeste 24;Sur 63;Noroeste 41;Norte 46;Este 22;Sur 43;Oeste 63;Norte 37;Sudeste 22;Norte 61;Este 28;Norte 43;
+6;Norte 46;Sudeste 56;Sudoeste 26;Este 41;Sur 15;Este 41;Noroeste 50;Sudoeste 52;Sudoeste 63;Noroeste 39;Norte 48;Norte 43;
+7;Sur 91;Noroeste 30;Sudoeste 28;Norte 56;Este 13;Noreste 39;Sur 30;Sudoeste 59;Oeste 20;Noroeste 22;Sudoeste 48;Sur 59;
+8;Este 28;Sur 78;Norte 37;Noroeste 74;Sur 37;Norte 24;Noreste 35;Norte 19;Noreste 19;Noreste 13;Oeste 46;Noreste 19;
+9;Noroeste 44;Este 26;Norte 46;Oeste 54;Este 39;Norte 28;Norte 22;Norte 28;Sur 70;Sur 57;Sudeste 26;Noroeste 117;
+10;Sudeste 22;Este 33;Sur 31;Sur 26;Noreste 28;Este 35;Este 37;Norte 28;Sudoeste 41;Sur 59;Este 28;Sur 56;
+11;Sur 68;Sudoeste 63;Norte 22;Este 37;Norte 33;Norte 37;Este 30;Sudeste 15;Norte 19;Sudeste 28;Norte 24;Este 37;
+12;Este 43;Este 54;Norte 30;Sudoeste 81;Este 17;Oeste 67;Este 46;Sur 50;Este 22;Sudeste 19;Sudeste 56;Norte 22;
+13;Noreste 48;Sudeste 59;Noreste 48;Oeste 52;Norte 22;Sudoeste 28;Oeste 15;Noroeste 46;Este 54;Norte 22;Sudeste 31;Sur 76;
+14;Este 33;Sudeste 50;Oeste 63;Noroeste 19;Noroeste 19;Este 37;Este 26;Norte 26;Este 44;Norte 24;Noroeste 28;Sudeste 50;
+15;Norte 22;Este 56;Sudoeste 80;Norte 39;Sudeste 33;Norte 44;Sudoeste 28;Este 28;Sudoeste 24;Este 26;Noroeste 43;Este 37;
+16;Noreste 17;Este 52;Norte 31;Norte 37;Norte 41;Sudoeste 30;Este 24;Norte 28;Noreste 22;Sur 56;Sudeste 33;Norte 19;
+17;Norte 44;Norte 41;Oeste 52;Sudeste 28;Oeste 41;Sudoeste 19;Sudeste 30;Norte 22;Este 22;Este 52;Noreste 43;Sur 59;
+18;Norte 37;Noreste 28;Este 46;Sur 20;Sur 33;Sur 17;Sudoeste 28;Este 17;Este 26;Noreste 48;Noreste 43;Norte 28;
+19;Sudoeste 68;Norte 20;Este 35;Este 24;Sur 17;Noroeste 20;Oeste 22;Este 22;Sur 19;Oeste 46;Sur 59;Noroeste 41;
+20;Oeste 70;Sur 22;Norte 26;Este 15;Este 59;Noroeste 20;Norte 28;Este 22;Sur 54;Sur 24;Este 37;Oeste 50;
+21;Sudoeste 70;Sur 31;Sur 56;Sur 26;Este 59;Norte 30;Norte 28;Norte 13;Este 28;Norte 26;Este 37;Sur 65;
+22;Este 22;Este 28;Sudoeste 28;Sudeste 26;Sudoeste 50;Noreste 19;Este 50;Este 43;Norte 46;Noroeste 22;Sur 30;Sudoeste 43;
+23;Sur 78;Este 33;Norte 26;Norte 15;Oeste 39;Sur 24;Sur 33;Oeste 44;Sur 61;Este 22;Norte 39;Norte 31;
+24;Sur 81;Sur 63;Este 20;Este 20;Noroeste 22;Sur 24;Sur 30;Sudoeste 63;Noreste 37;Este 28;Sur 39;Norte 41;
+25;Este 41;Sur 54;Este 48;Este 35;Noroeste 22;Este 20;Noroeste 28;Oeste 91;Sur 54;Este 24;Este 30;Norte 24;
+26;Este 43;Sur 46;Este 37;Este 44;Sur 20;Este 28;Sur 28;Oeste 72;Sur 20;Norte 41;Este 30;Oeste 54;
+27;Norte 26;Sur 43;Norte 52;Este 52;Noroeste 19;Sur 9;Este 35;Sudoeste 30;Norte 30;Sudoeste 74;Este 19;Noreste 19;
+28;Sur 20;Este 28;Este 19;Este 19;Noreste 22;Este 22;Noreste 44;Este 19;Noreste 24;Sudeste 67;Norte 48;Este 17;
+29;Sur 22; ;Norte 19;Este 46;Norte 56;Sudeste 19;Norte 19;Este 28;Este 26;Este 87;Oeste 89;Sur 20;
+30;Noroeste 39; ;Norte 57;Este 35;Norte 28;Sur 17;Este 24;Sudeste 26;Este 37;Sur 13;Sur 74;Norte 61;
+31;Este 46; ;Sur 33; ;Sur 24; ;Este 26;Oeste 24; ;Sudeste 61; ;Sur 63;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2015 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Sudoeste 59;Norte 44;Norte 28;Norte 22;Noreste 30;Noroeste 26;Este 28;Noreste 39;Sudeste 57;Este 63;Este 52;Este 33;
+2;Sur 37;Noreste 44;Norte 19;Norte 28;Norte 54;Noroeste 30;Norte 31;Sur 19;Este 35;Este 70;Este 48;Este 57;
+3;Noroeste 48;Este 48;Noroeste 48;Norte 24;Oeste 52;Noroeste 35;Sur 56;Sur 28;Sur 26;Sur 26;Este 52;Noreste 46;
+4;Este 46;Este 37;Sur 28;Este 35;Noroeste 33;Este 15;Sur 44;Este 52;Norte 17;Sudeste 52;Sudeste 48;Este 35;
+5;Norte 22;Noreste 31;Este 28;Sudeste 59;Norte 15;Norte 11;Norte 48;Este 41;Norte 15;Noreste 41;Este 20;Sur 50;
+6;Noroeste 57;Este 28;Este 28;Sur 26;Sur 56;Sur 63;Norte 24;Noreste 41;Noreste 37;Sur 52;Este 19;Sur 37;
+7;Este 22;Este 22;Norte 41;Este 43;Sur 22;Oeste 15;Este 17;Sudoeste 59;Este 37;Sur 54;Este 31;Norte 26;
+8;Este 24;Norte 22;Norte 28;Este 17;Norte 28;Este 33;Noreste 15;Este 57;Oeste 30;Sudeste 59;Norte 43;Sur 63;
+9;Noroeste 43;Sur 31;Este 44;Norte 19;Este 22;Sur 26;Norte 19;Sudoeste 83;Sur 59;Sudeste 57;Norte 67;Norte 20;
+10;Sur 35;Sur 19;Este 39;Este 30;Este 28;Sudoeste 28;Noroeste 19;Sur 50;Oeste 52;Este 39;Este 44;Noroeste 37;
+11;Norte 28;Norte 22;Este 28;Este 48;Este 17;Sudoeste 48;Este 37;Sudeste 33;Sudoeste 59;Sur 50;Sudeste 37;Norte 43;
+12;Este 70;Sur 63;Norte 22;Este 26;Norte 26;Noroeste 35;Norte 31;Sudeste 65;Oeste 35;Este 20;Este 68;Oeste 24;
+13;Sudeste 61;Este 52;Norte 41;Norte 22;Norte 28;Noroeste 22;Sudoeste 28;Este 67;Norte 30;Noreste 44;Oeste 57;Norte 28;
+14;Sur 74;Este 50;Sur 48;Noreste 30;Este 11;Oeste 63;Oeste 43;Sur 28;Norte 26;Oeste 94;Norte 28;Noroeste 68;
+15;Este 46;Este 54;Sur 33;Este 68;Norte 28;Oeste 28;Norte 24;Sudoeste 22;Sur 54;Oeste 67;Norte 26;Este 46;
+16;Oeste 46;Este 50;Este 35;Noroeste 115;Este 19;Noroeste 43;Norte 24;Este 37;Sur 50;Sudoeste 46;Noreste 39;Noreste 57;
+17;Este 48;Norte 39;Norte 24;Oeste 59;Norte 24;Sur 52;Norte 19;Este 17;Norte 15;Sur 33;Norte 52;Noreste 59;
+18;Sudoeste 63;Norte 61;Este 26;Oeste 22;Este 19;Sudoeste 44;Norte 41;Sur 30;Este 46;Norte 28;Sudeste 24;Sur 52;
+19;Oeste 37;Sur 52;Norte 33;Noroeste 37;Este 19;Norte 63;Sur 30;Sudeste 37;Este 39;Noreste 46;Sur 56;Sur 24;
+20;Sur 54;Sur 46;Sur 80;Sur 24;Norte 28;Norte 56;Sur 50;Este 33;Sudeste 74;Sudoeste 50;Sur 26;Noreste 31;
+21;Este 43;Este 37;Sur 61;Sur 15;Norte 28;Oeste 15;Sudeste 19;Norte 37;Este 67;Noroeste 19;Norte 46;Sudeste 33;
+22;Noreste 50;Norte 19;Sur 28;Noreste 19;Norte 17;Sur 41;Noroeste 22;Oeste 48;Este 78;Sur 63;Este 37;Sur 31;
+23;Noreste 56;Este 19;Este 17;Noroeste 15;Sur 44;Sudeste 30;Noroeste 15;Sur 54;Este 67;Sur 50;Este 48;Sudoeste 41;
+24;Este 22;Norte 24;Este 17;Noroeste 17;Sudeste 30;Noreste 37;Este 17;Sudeste 20;Sudeste 57;Este 56;Este 54;Este 46;
+25;Noreste 13;Sudeste 65;Sur 22;Noroeste 19;Oeste 13;Noreste 19;Norte 20;Norte 43;Sur 35;Este 59;Este 61;Norte 37;
+26;Norte 24;Sur 28;Sur 31;Noroeste 17;Sudoeste 17;Norte 19;Norte 28;Oeste 19;Este 17;Sudeste 26;Este 37;Este 28;
+27;Norte 26;Este 48;Sudeste 17;Este 41;Este 33;Este 13;Norte 24;Oeste 41;Oeste 35;Este 41;Sur 59;Norte 28;
+28;Sudeste 76;Este 26;Este 13;Sudeste 59;Este 28;Norte 52;Norte 19;Norte 26;Noroeste 56;Este 41;Sudoeste 56;Sudeste 20;
+29;Sur 44; ;Este 11;Noreste 52;Noreste 30;Este 11;Este 28;Este 22;Oeste 67;Este 41;Oeste 35;Norte 28;
+30;Este 39; ;Sudoeste 20;Noreste 43;Noroeste 24;Sur 20;Este 46;Este 33;Este 24;Este 48;Noreste 22;Este 28;
+31;Norte 46; ;Sudoeste 31; ;Norte 17; ;Sudoeste 70;Sudeste 72; ;Este 52; ;Este 35;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2016 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Sudoeste 26;Este 50;Este 63;Noreste 70;Norte 19;Norte 22;Sudeste 35;Sur 15;Sudeste 30;Este 44;Oeste 57;Norte 41;
+2;Norte 46;Sudeste 30;Este 56;Noreste 65;Sudeste 28;Oeste 37;Sudeste 26;Este 26;Este 24;Noreste 37;Oeste 48;Noreste 22;
+3;Noreste 54;Este 33;Este 28;Este 26;Este 24;Noroeste 11;Este 15;Este 22;Sur 39;Este 48;Noroeste 52;Este 41;
+4;Sudoeste 37;Noreste 28;Norte 20;Este 57;Noreste 15;Oeste 19;Sur 37;Este 20;Sur 33;Este 48;Este 31;Este 31;
+5;Sudeste 67;Sudeste 28;Sur 33;Este 24;Sudeste 33;Sur 13;Sur 24;Este 17;Este 43;Este 33;Norte 22;Norte 39;
+6;Sur 48;Sudeste 54;Sur 28;Sudeste 31;Sudeste 37;Noroeste 41;Oeste 22;Sur 13;Sur 68;Este 26;Norte 24;Sudoeste 37;
+7;Este 41;Oeste 70;Este 24;Este 37;Este 28;Oeste 35;Oeste 19;Noreste 13;Sudoeste 41;Sudoeste 33;Sudeste 44;Sur 33;
+8;Este 30;Norte 22;Norte 17;Este 44;Este 30;Oeste 35;Noroeste 17;Norte 28;Noroeste 19;Sudoeste 41;Este 37;Sur 35;
+9;Este 52;Sur 46;Sudeste 56;Sudeste 41;Sudeste 20;Sur 30;Norte 13;Sudoeste 22;Norte 28;Noroeste 33;Oeste 39;Este 28;
+10;Sudeste 33;Este 33;Sur 46;Sudeste 57;Este 35;Oeste 28;Noreste 13;Noreste 13;Este 17;Este 31;Sur 46;Noroeste 52;
+11;Este 19;Noreste 30;Sur 26;Este 52;Sudeste 26;Oeste 19;Este 31;Norte 20;Este 19;Este 15;Sudeste 44;Sudeste 41;
+12;Oeste 59;Sur 59;Este 43;Este 50;Sudeste 26;Oeste 19;Sudoeste 37;Norte 19;Sudoeste 68;Sur 37;Norte 30;Norte 48;
+13;Sudeste 41;Sur 59;Este 19;Sudeste 54;Sudeste 20;Norte 19;Este 33;Noroeste 24;Oeste 65;Sudeste 46;Norte 63;Sur 44;
+14;Norte 41;Sur 19;Este 19;Este 15;Este 22;Este 19;Este 41;Este 22;Sudoeste 52;Este 31;Noroeste 13;Sur 20;
+15;Este 65;Este 28;Este 19;Norte 41;Sur 30;Este 13;Sur 37;Sudoeste 17;Norte 20;Norte 50;Este 37;Noreste 41;
+16;Este 26;Norte 43;Este 15;Sudeste 41;Sur 33;Sur 11;Sur 48;Sudoeste 13;Norte 15;Sudoeste 37;Este 37;Norte 37;
+17;Sudoeste 46;Sudoeste 59;Norte 46;Este 65;Sur 30;Oeste 20;Este 17;Sudoeste 35;Este 24;Sur 44;Sur 52;Norte 33;
+18;Este 54;Sudeste 50;Sur 61;Este 76;Sur 15;Oeste 19;Este 19;Oeste 24;Sur 33;Este 70;Noreste 24;Sur 48;
+19;Este 41;Noreste 80;Sur 56;Sudoeste 31;Este 28;Este 13;Este 28;Este 17;Sudeste 15;Este 70;Norte 28;Sur 28;
+20;Este 65;Este 26;Este 22;Norte 30;Noreste 19;Este 24;Este 20;Sur 26;Este 24;Sur 41;Sur 24;Este 39;
+21;Este 20;Este 37;Sudeste 24;Norte 31;Norte 19;Este 19;Norte 19;Sur 33;Norte 31;Noreste 22;Sur 33;Este 39;
+22;Sur 57;Norte 35;Noreste 19;Noreste 39;Sudoeste 22;Este 17;Norte 19;Noroeste 43;Sur 61;Este 37;Norte 24;Sur 39;
+23;Sur 76;Este 20;Norte 28;Noreste 20;Norte 15;Este 19;Norte 26;Oeste 24;Sur 46;Este 30;Norte 19;Este 35;
+24;Oeste 63;Sur 46;Sudeste 59;Sur 46;Norte 30;Noreste 22;Este 35;Norte 17;Sur 28;Este 59;Este 30;Sudoeste 35;
+25;Oeste 52;Sur 54;Sudeste 56;Sur 57;Norte 19;Sudeste 44;Este 50;Este 20;Este 22;Este 52;Este 37;Noreste 44;
+26;Sur 46;Norte 89;Sudeste 43;Sur 54;Este 31;Este 57;Sudoeste 56;Sudeste 22;Este 19;Sur 59;Este 52;Este 44;
+27;Sudeste 24;Sur 41;Sur 46;Oeste 46;Este 43;Este 44;Sur 20;Este 56;Norte 31;Sur 54;Este 35;Este 31;
+28;Este 54;Oeste 39;Sur 20;Sudoeste 15;Este 56;Norte 35;Este 22;Sudeste 33;Este 54;Este 30;Este 39;Norte 24;
+29;Este 43;Sudeste 56;Sudoeste 13;Sur 22;Sudeste 50;Norte 20;Noreste 26;Este 22;Este 35;Norte 39;Este 31;Este 31;
+30;Sur 37; ;Este 19;Sur 20;Sur 43;Este 28;Sudeste 19;Este 17;Este 43;Norte 22;Noreste 33;Norte 28;
+31;Sudeste 44; ;Sudeste 24; ;Oeste 56; ;Sudeste 15;Sur 19; ;Noroeste 43; ;Este 22;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2017 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Sudeste 54;Oeste 44;Sudoeste 26;Noreste 39;Este 19;Este 17;Norte 24;Este 37;Este 30;Este 41;Este 46;Este 52;
+2;Este 35;Este 31;Sudoeste 41;Noreste 50;Norte 26;Norte 24;Norte 26;Sudeste 28;Sudeste 46;Oeste 35;Noreste 78;Este 41;
+3;Norte 50;Este 28;Sur 46;Sudoeste 24;Este 28;Norte 41;Norte 41;Noroeste 22;Sur 31;Oeste 39;Oeste 22;Sudeste 44;
+4;Sudoeste 17;Este 39;Este 44;Este 19;Este 26;Sur 20;Norte 37;Norte 24;Sur 44;Norte 57;Sur 31;Este 46;
+5;Este 33;Oeste 61;Noreste 24;Sur 19;Este 19;Este 13;Norte 41;Norte 44;Este 37;Norte 37;Este 24;Este 39;
+6;Este 46;Sudoeste 44;Norte 41;Este 41;Norte 43;Noroeste 31;Este 31;Norte 24;Noreste 43;Oeste 41;Este 26;Oeste 46;
+7;Sudeste 52;Este 31;Sudeste 43;Noreste 46;Norte 26;Norte 17;Sudeste 43;Noreste 44;Este 26;Este 48;Este 46;Sur 46;
+8;Noreste 68;Este 31;Norte 50;Sur 50;Sur 31;Oeste 30;Oeste 28;Sudoeste 50;Este 46;Este 46;Este 37;Norte 39;
+9;Oeste 111;Este 41;Oeste 85;Noreste 33;Sur 20;Oeste 31;Sur 20;Este 44;Este 39;Sudoeste 19;Sudoeste 31;Sudoeste 39;
+10;Este 22;Este 39;Sudoeste 33;Oeste 65;Este 35;Norte 31;Oeste 65;Este 54;Sudeste 61;Este 39;Oeste 41;Sur 54;
+11;Norte 24;Este 46;Noreste 30;Sur 26;Este 52;Oeste 30;Sudeste 35;Este 59;Noroeste 65;Sudeste 50;Sudoeste 43;Sur 52;
+12;Norte 31;Sudeste 33;Sudoeste 37;Sur 28;Este 52;Norte 33;Este 30;Sudoeste 39;Este 30;Este 52;Norte 20;Noreste 48;
+13;Este 54;Sudeste 50;Noroeste 22;Este 22;Sudoeste 20;Norte 19;Noroeste 30;Noreste 20;Noreste 28;Sur 24;Este 48;Sudoeste 41;
+14;Este 43;Sudoeste 22;Este 30;Este 35;Este 15;Este 17;Este 57;Norte 22;Sur 28;Noroeste 39;Norte 33;Oeste 33;
+15;Este 50;Oeste 28;Norte 30;Sudeste 31;Oeste 17;Norte 26;Sudoeste 50;Norte 33;Sudeste 37;Este 26;Sur 56;Noroeste 22;
+16;Este 54;Norte 24;Sur 52;Este 22;Este 20;Norte 31;Sudoeste 50;Norte 19;Este 30;Noreste 30;Sur 54;Sudoeste 67;
+17;Sur 26;Norte 37;Noreste 22;Este 28;Este 37;Sudoeste 46;Oeste 35;Noroeste 39;Este 28;Norte 20;Norte 46;Sur 59;
+18;Este 44;Norte 52;Este 30;Este 35;Este 41;Oeste 59;Noroeste 39;Noroeste 31;Norte 31;Oeste 67;Oeste 43;Este 41;
+19;Norte 43;Norte 13;Este 28;Este 31;Noroeste 41;Sudoeste 33;Noroeste 43;Sur 39;Este 35;Sur 44;Noroeste 44;Norte 54;
+20;Norte 43;Norte 24;Este 30;Sur 26;Noroeste 37;Norte 39;Norte 46;Oeste 39;Sur 43;Norte 41;Noroeste 48;Este 33;
+21;Norte 37;Noroeste 30;Este 43;Oeste 43;Noroeste 41;Norte 37;Este 22;Norte 43;Sur 44;Sur 65;Sur 41;Norte 31;
+22;Este 56;Norte 37;Sudeste 50;Este 28;Este 20;Norte 33;Norte 35;Norte 52;Norte 22;Sudoeste 20;Norte 48;Sudoeste 59;
+23;Este 28;Norte 15;Este 22;Norte 24;Este 26;Norte 35;Este 30;Norte 30;Este 22;Noreste 33;Noroeste 52;Sudeste 48;
+24;Sur 57;Este 30;Este 24;Noreste 30;Norte 24;Este 26;Este 37;Sudeste 26;Norte 33;Este 31;Sur 46;Sudeste 37;
+25;Sur 39;Noreste 22;Este 39;Sudoeste 52;Sur 28;Norte 24;Sudeste 54;Sur 41;Este 26;Este 24;Noreste 24;Norte 30;
+26;Sur 39;Norte 20;Este 41;Oeste 57;Oeste 39;Norte 19;Sudeste 33;Sur 37;Sudeste 59;Este 54;Noreste 22;Noroeste 41;
+27;Noreste 22;Norte 30;Este 30;Noroeste 43;Este 35;Oeste 26;Este 17;Sudeste 35;Sur 41;Sur 39;Sudeste 54;Este 33;
+28;Norte 31;Noroeste 19;Este 43;Oeste 39;Este 35;Sur 15;Norte 22;Este 22;Este 52;Este 39;Sudeste 46;Este 26;
+29;Norte 46; ;Este 56;Norte 28;Este 24;Oeste 22;Sur 28;Oeste 50;Este 39;Oeste 72;Sudeste 35;Norte 26;
+30;Norte 33; ;Noreste 43;Oeste 22;Este 24;Oeste 24;Sudeste 39;Oeste 28;Norte 22;Sur 28;Este 35;Sudeste 50;
+31;Noreste 30; ;Este 35; ;Este 22; ;Sur 33;Noreste 33; ;Oeste 26; ;Sudeste 44;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2018 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Este 35;Este 20;Este 24;Este 44;Este 41;Sur 48;Este 17;Norte 28;Sudeste 50;Sur 37;Este 35;Sur 46;
+2;Sur 57;Este 46;Este 33;Sudeste 30;Noreste 59;Sur 26;Sur 37;Este 35;Este 39;Norte 24;Este 56;Sudoeste 33;
+3;Oeste 39;Este 39;Este 24;Este 30;Este 20;Este 19;Sudeste 39;Este 28;Este 17;Oeste 33;Norte 31;Oeste 33;
+4;Norte 61;Noreste 31;Este 28;Este 20;Este 37;Este 22;Este 33;Sudoeste 22;Norte 30;Sudeste 22;Este 39;Este 41;
+5;Sur 41;Noreste 30;Sur 39;Norte 22;Este 37;Sudoeste 20;Este 41;Noroeste 24;Norte 33;Este 31;Norte 46;Este 30;
+6;Este 26;Este 30;Sur 39;Sudeste 48;Este 44;Noroeste 48;Sudeste 50;Norte 26;Norte 28;Norte 30;Sudeste 48;Sur 37;
+7;Norte 43;Este 37;Norte 24;Sur 28;Noreste 39;Sudoeste 39;Sur 50;Norte 35;Sudeste 39;Norte 31;Este 33;Noreste 24;
+8;Norte 26;Norte 33;Norte 24;Noreste 28;Este 31;Norte 37;Sur 39;Sur 50;Sudeste 50;Noreste 22;Noreste 48;Noroeste 31;
+9;Este 52;Sudeste 43;Norte 35;Este 30;Noroeste 19;Este 28;Sur 22;Sur 54;Este 48;Sur 44;Norte 30;Sudoeste 41;
+10;Este 50;Sudeste 43;Sur 48;Norte 39;Sur 57;Noreste 26;Norte 33;Sur 28;Este 39;Sudeste 33;Sudeste 72;Oeste 26;
+11;Este 33;Sur 50;Sudoeste 37;Norte 33;Sur 57;Sudoeste 37;Norte 28;Este 26;Este 33;Este 41;Sudeste 37;Noreste 61;
+12;Noreste 57;Noreste 26;Este 19;Sur 44;Norte 15;Oeste 43;Noroeste 37;Norte 28;Noreste 39;Este 31;Norte 44;Este 30;
+13;Sur 44;Este 26;Oeste 28;Sur 39;Norte 33;Oeste 48;Noroeste 31;Sur 52;Este 31;Noreste 26;Este 50;Este 76;
+14;Sudeste 44;Este 39;Norte 33;Este 48;Norte 39;Sudoeste 26;Norte 28;Sudoeste 39;Este 31;Noroeste 35;Oeste 39;Noreste 68;
+15;Este 20;Este 44;Sudoeste 48;Este 41;Sur 31;Sur 15;Sur 26;Este 22;Sudeste 24;Noroeste 31;Sur 54;Oeste 31;
+16;Este 35;Noreste 44;Norte 35;Noreste 28;Sur 24;Norte 35;Este 44;Norte 44;Noreste 31;Este 35;Sur 44;Norte 43;
+17;Noroeste 28;Noreste 44;Norte 28;Norte 31;Noroeste 28;Norte 31;Este 50;Este 24;Este 22;Sudeste 31;Norte 50;Sur 43;
+18;Norte 54;Norte 39;Oeste 52;Este 26;Noroeste 37;Norte 37;Este 37;Sur 50;Sur 56;Sudeste 50;Sudoeste 33;Este 35;
+19;Este 37;Noreste 28;Oeste 26;Sur 28;Sudoeste 33;Norte 33;Sudoeste 35;Sur 43;Sudeste 39;Este 44;Norte 33;Este 28;
+20;Este 31;Sudeste 44;Sur 46;Norte 35;Sur 17;Este 13;Oeste 52;Sur 31;Norte 28;Este 48;Norte 35;Sudeste 37;
+21;Este 33;Sur 41;Oeste 41;Este 28;Sudoeste 30;Sur 46;Oeste 39;Noroeste 33;Norte 39;Noreste 35;Norte 31;Oeste 33;
+22;Este 33;Este 20;Este 44;Este 31;Oeste 24;Norte 44;Norte 28;Norte 50;Sur 50;Sur 30;Sudeste 57;Este 22;
+23;Sudoeste 48;Este 37;Sur 59;Sudeste 31;Oeste 28;Sur 39;Oeste 26;Norte 37;Este 31;Sudeste 43;Sudeste 46;Este 24;
+24;Sudoeste 48;Este 37;Sur 35;Este 39;Oeste 24;Oeste 31;Este 41;Sur 33;Sudeste 41;Sudeste 41;Sur 31;Este 39;
+25;Sudeste 43;Este 35;Sur 30;Este 19;Norte 33;Noroeste 31;Sudeste 48;Oeste 46;Noreste 33;Este 24;Este 20;Noreste 44;
+26;Norte 44;Este 39;Este 24;Norte 31;Norte 33;Noroeste 28;Sudeste 57;Noroeste 44;Este 44;Este 31;Este 30;Este 37;
+27;Norte 43;Este 46;Norte 31;Sur 31;Este 20;Norte 30;Este 31;Norte 35;Sudeste 54;Este 24;Este 44;Noreste 37;
+28;Este 41;Este 35;Noreste 35;Sudeste 44;Norte 26;Este 26;Este 26;Norte 30;Este 52;Este 24;Sudeste 44;Este 54;
+29;Este 48; ;Noreste 26;Oeste 61;Norte 31;Sudeste 20;Sudoeste 39;Este 26;Este 74;Norte 33;Sudeste 39;Sudoeste 68;
+30;Noreste 52; ;Este 24;Este 37;Sudoeste 46;Este 22;Sur 26;Sur 63;Sur 46;Norte 39;Sur 44;Sudoeste 68;
+31;Este 30; ;Este 43; ;Sur 35; ;Sur 26;Sudeste 46; ;Sur 31; ;Este 39;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2019 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Norte 33;Este 48;Norte 46;Este 22;Noroeste 39;Norte 20;Noroeste 35;Oeste 46;Sudoeste 37;Sur 52;Noreste 50;Sudeste 35;
+2;Sur 44;Sudeste 44;Sur 31;Sur 56;Noroeste 37;Oeste 15;Noroeste 37;Sudoeste 48;Sur 41;Sudeste 54;Sur 37;Norte 26;
+3;Sur 63;Sudeste 31;Noreste 30;Sur 39;Sur 28;Oeste 24;Oeste 37;Sur 24;Oeste 33;Sudeste 61;Norte 37;Noroeste 46;
+4;Norte 41;Este 26;Noreste 48;Sudoeste 48;Este 41;Norte 31;Sur 37;Norte 35;Oeste 46;Este 57;Norte 26;Sudoeste 37;
+5;Norte 41;Este 31;Este 28;Sur 39;Sur 37;Norte 46;Oeste 41;Norte 33;Este 52;Sur 31;Noreste 20;Noroeste 31;
+6;Norte 46;Norte 31;Este 24;Noreste 20;Sudeste 39;Norte 37;Noroeste 24;Norte 33;Sudeste 46;Norte 37;Norte 33;Sudeste 35;
+7;Oeste 26;Norte 39;Sur 43;Norte 24;Este 39;Oeste 31;Norte 31;Sudeste 39;Sudeste 26;Norte 39;Este 59;Sudeste 26;
+8;Este 31;Oeste 41;Sudeste 44;Norte 15;Este 39;Oeste 31;Norte 30;Sudeste 44;Sur 20;Noroeste 37;Este 52;Sudeste 44;
+9;Sudoeste 52;Norte 26;Sudeste 41;Este 22;Este 41;Norte 26;Sudeste 20;Sur 33;Sur 37;Noroeste 37;Este 46;Norte 30;
+10;Sudeste 35;Norte 26;Este 31;Norte 30;Oeste 48;Oeste 20;Este 17;Noroeste 31;Este 26;Norte 28;Este 46;Oeste 43;
+11;Este 28;Sur 44;Noreste 33;Sur 31;Oeste 33;Este 44;Este 44;Norte 28;Este 30;Sur 37;Este 39;Norte 50;
+12;Norte 39;Sur 39;Sudoeste 26;Norte 33;Norte 30;Norte 22;Este 44;Sur 31;Sur 22;Este 78;Noreste 31;Sur 46;
+13;Norte 31;Este 30;Sudoeste 24;Noroeste 31;Sudeste 44;Este 44;Este 20;Sur 33;Este 31;Sudeste 56;Noreste 19;Sur 39;
+14;Sudeste 39;Este 31;Sudeste 24;Norte 28;Sur 30;Oeste 30;Norte 19;Norte 35;Este 33;Sudeste 52;Sur 35;Norte 30;
+15;Sudeste 43;Noreste 19;Este 48;Este 43;Noreste 33;Sudeste 54;Sudoeste 30;Norte 35;Norte 46;Este 52;Norte 31;Sur 33;
+16;Este 22;Sudoeste 30;Este 35;Este 28;Norte 33;Sudeste 61;Norte 30;Este 15;Sudeste 46;Este 48;Noroeste 43;Oeste 39;
+17;Sudeste 46;Norte 37;Noreste 41;Norte 37;Norte 44;Este 31;Norte 39;Sudeste 28;Noroeste 39;Este 44;Norte 26;Este 44;
+18;Sudeste 43;Norte 37;Sur 33;Norte 24;Norte 28;Noroeste 56;Norte 26;Sudeste 33;Sur 20;Sudoeste 43;Sudeste 37;Norte 48;
+19;Este 35;Oeste 31;Sur 35;Norte 31;Sur 31;Oeste 46;Este 19;Sur 30;Sur 37;Este 31;Este 30;Norte 48;
+20;Noreste 41;Norte 39;Sur 30;Sur 41;Sudeste 56;Norte 22;Este 19;Este 33;Noroeste 39;Este 28;Sudeste 39;Sur 41;
+21;Norte 33;Este 48;Este 22;Sudeste 20;Sur 48;Norte 30;Noroeste 41;Este 31;Noroeste 56;Norte 26;Sudeste 57;Sur 41;
+22;Norte 30;Norte 33;Noreste 22;Este 24;Sur 28;Este 17;Sur 31;Este 28;Este 39;Oeste 37;Este 50;Sur 33;
+23;Sudeste 44;Este 35;Norte 26;Este 26;Norte 41;Oeste 33;Sudeste 30;Este 22;Noreste 39;Oeste 35;Sudeste 57;Norte 39;
+24;Este 48;Sur 28;Sur 43;Este 35;Noroeste 28;Este 37;Sudeste 26;Noreste 24;Norte 24;Oeste 30;Este 50;Norte 39;
+25;Noreste 48;Sur 31;Sudeste 35;Este 57;Norte 35;Oeste 56;Sudeste 46;Noreste 28;Oeste 26;Noroeste 28;Este 67;Sur 54;
+26;Este 33;Sur 28;Este 37;Este 54;Norte 33;Noroeste 35;Sudeste 31;Noreste 15;Este 44;Norte 37;Sur 31;Este 48;
+27;Este 39;Norte 39;Este 31;Sudeste 26;Este 28;Noroeste 41;Este 26;Este 28;Este 41;Sudeste 39;Oeste 37;Este 30;
+28;Norte 30;Este 26;Noreste 44;Norte 28;Noreste 20;Norte 28;Este 30;Norte 22;Noreste 41;Sur 48;Norte 35;Sudoeste 37;
+29;Sudeste 44; ;Noreste 46;Sur 28;Este 26;Sudeste 35;Noreste 17;Sudoeste 48;Norte 24;Este 43;Sudoeste 61;Este 33;
+30;Este 52; ;Este 28;Sur 35;Este 41;Sudoeste 37;Noroeste 26;Este 28;Norte 31;Sudeste 46;Oeste 48;Este 48;
+31;Sur 30; ;Este 26; ;Este 30; ;Noroeste 33;Oeste 20; ;Este 44; ;Sudeste 33;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2020 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Sudeste 39;Noreste 22;Norte 19;Noreste 39;Sur 30;Sur 22;Sur 37;Este 20;Este 52;Sudeste 44;Este 28;Este 35;
+2;Este 48;Este 26;Este 30;Sudoeste 43;Sudeste 39;Norte 20;Oeste 20;Este 37;Este 56;Este 59;Este 33;Norte 54;
+3;Este 37;Este 43;Norte 33;Sur 39;Noreste 39;Sudeste 19;Norte 37;Este 37;Norte 22;Este 50;Este 50;Norte 20;
+4;Norte 35;Noreste 46;Este 43;Norte 26;Norte 28;Este 22;Noroeste 39;Este 19;Oeste 30;Este 59;Noreste 52;Sur 43;
+5;Oeste 39;Norte 48;Este 33;Norte 19;Sudoeste 50;Este 37;Sur 30;Norte 19;Este 46;Sudoeste 35;Noreste 54;Este 33;
+6;Sur 59;Norte 41;Este 39;Sur 52;Sudoeste 30;Sudeste 46;Sur 19;Sur 39;Este 35;Este 22;Sudeste 39;Sudeste 33;
+7;Norte 41;Este 54;Norte 39;Sudoeste 28;Noroeste 22;Sur 11;Sudeste 41;Sudeste 43;Este 31;Sudeste 28;Este 35;Este 41;
+8;Norte 35;Sudeste 43;Norte 24;Este 26;Norte 37;Oeste 15;Sudeste 20;Sudeste 33;Noreste 37;Este 31;Sudeste 39;Noreste 37;
+9;Este 37;Sudeste 33;Este 50;Este 30;Norte 35;Oeste 15;Oeste 31;Este 30;Noreste 26;Sudoeste 44;Este 39;Norte 28;
+10;Este 31;Este 30;Sudeste 48;Este 35;Norte 26;Noroeste 22;Noroeste 39;Sudoeste 46;Este 24;Norte 46;Este 39;Norte 30;
+11;Norte 20;Este 44;Este 43;Este 31;Sur 31;Norte 24;Norte 26;Sudoeste 41;Sur 35;Oeste 46;Este 37;Sudoeste 44;
+12;Este 54;Noreste 48;Este 17;Este 26;Este 17;Sudoeste 41;Oeste 31;Noroeste 22;Noreste 41;Sudoeste 28;Este 31;Norte 44;
+13;Sudeste 52;Noreste 56;Este 30;Sur 39;Sudoeste 30;Oeste 46;Oeste 33;Noroeste 26;Sur 35;Este 22;Este 33;Sur 61;
+14;Noreste 37;Sur 48;Este 46;Sudoeste 48;Norte 24;Noreste 28;Oeste 20;Oeste 33;Sur 31;Sudeste 19;Sur 43;Norte 41;
+15;Sudoeste 39;Noreste 22;Sur 31;Sur 26;Noroeste 39;Noreste 30;Este 20;Sudoeste 39;Norte 39;Sudeste 46;Sur 35;Este 50;
+16;Sur 28;Norte 59;Este 24;Noreste 15;Oeste 33;Este 22;Norte 19;Noroeste 46;Este 20;Este 33;Noreste 28;Este 41;
+17;Sudeste 30;Sudoeste 44;Este 50;Este 19;Oeste 33;Oeste 52;Noreste 31;Noreste 15;Noroeste 33;Noreste 28;Este 28;Este 24;
+18;Noreste 33;Sudoeste 37;Sur 33;Norte 30;Este 30;Oeste 44;Sudeste 26;Sur 37;Noroeste 31;Este 22;Este 35;Este 33;
+19;Este 22;Norte 33;Sudoeste 37;Norte 35;Norte 20;Este 26;Sudeste 37;Sur 48;Sur 41;Sudeste 54;Este 37;Oeste 74;
+20;Este 28;Sur 43;Oeste 24;Noroeste 15;Este 22;Este 44;Sudoeste 20;Oeste 28;Oeste 39;Este 65;Este 43;Sudoeste 41;
+21;Este 35;Sur 39;Noroeste 20;Este 41;Este 48;Este 48;Este 20;Oeste 30;Sur 19;Este 59;Este 39;Este 22;
+22;Este 41;Sudeste 30;Noreste 22;Este 30;Sur 54;Este 39;Este 22;Noreste 26;Noreste 24;Este 52;Este 44;Noreste 28;
+23;Norte 26;Norte 28;Norte 37;Este 31;Sur 39;Este 28;Oeste 28;Norte 28;Norte 22;Sudeste 22;Norte 35;Norte 33;
+24;Norte 44;Norte 35;Este 24;Este 37;Noroeste 44;Sur 37;Oeste 39;Este 24;Este 39;Este 24;Este 67;Norte 43;
+25;Este 37;Este 30;Sur 33;Este 54;Sudoeste 48;Oeste 35;Oeste 28;Este 30;Este 59;Este 31;Este 43;Este 41;
+26;Sudoeste 61;Noreste 26;Este 39;Este 54;Sur 30;Sudoeste 22;Norte 37;Sudoeste 39;Este 46;Sur 37;Sur 44;Este 52;
+27;Sur 50;Noroeste 39;Este 24;Este 41;Noroeste 22;Norte 19;Sudoeste 31;Sudoeste 46;Oeste 35;Este 33;Noreste 37;Este 39;
+28;Noreste 31;Este 37;Este 28;Norte 61;Noroeste 17;Este 26;Sudoeste 33;Este 33;Sudoeste 28;Sur 44;Este 81;Este 44;
+29;Sudeste 44;Este 37;Norte 24;Oeste 33;Este 20;Este 44;Norte 19;Sur 33;Norte 30;Sur 35;Sur 39;Norte 24;
+30;Sur 33; ;Este 37;Sur 19;Oeste 43;Sur 52;Noreste 31;Sur 26;Sur 28;Sur 28;Este 44;Sudoeste 48;
+31;Noreste 24; ;Sudeste 65; ;Sudoeste 48; ;Norte 30;Sudeste 30; ;Este 30; ;Sur 41;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2021 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Este 33;Este 35;Noreste 39;Este 39;Norte 22;Oeste 33;Norte 35;Noreste 19;Este 65;Sur 26;Sudeste 39;Este 41;
+2;Este 24;Sur 28;Este 37;Este 43;Noreste 17;Sudoeste 26;Este 22;Noreste 17;Sudeste 41;Sudoeste 50;Sur 30;Este 44;
+3;Este 33;Sur 35;Este 50;Este 35;Oeste 44;Norte 30;Noroeste 28;Norte 24;Este 41;Sur 35;Este 41;Este 41;
+4;Este 39;Sur 37;Este 39;Este 30;Sur 41;Este 30;Norte 13;Este 28;Este 44;Oeste 31;Este 26;Este 44;
+5;Este 35;Sur 26;Sur 33;Este 28;Sur 26;Sur 33;Este 22;Norte 30;Este 43;Norte 31;Sudoeste 57;Este 41;
+6;Oeste 35;Este 31;Este 24;Este 31;Oeste 20;Este 33;Norte 26;Este 22;Este 52;Sur 46;Sudeste 43;Este 46;
+7;Oeste 43;Este 30;Noreste 20;Norte 31;Este 24;Este 35;Este 24;Norte 17;Este 50;Sudeste 24;Este 35;Este 48;
+8;Este 43;Este 44;Este 46;Norte 33;Este 33;Noreste 24;Este 24;Sudeste 65;Este 56;Este 41;Sudeste 52;Noreste 48;
+9;Este 46;Este 48;Este 33;Sudeste 35;Norte 22;Este 20;Norte 22;Sudeste 57;Oeste 43;Este 39;Este 48;Noreste 41;
+10;Este 46;Este 48;Este 33;Este 54;Sudeste 24;Sudoeste 31;Sur 43;Sur 24;Sur 37;Este 39;Este 50;Este 41;
+11;Sur 44;Este 65;Norte 26;Sur 48;Sudoeste 24;Noroeste 35;Norte 28;Oeste 35;Norte 39;Sudeste 28;Este 56;Sur 35;
+12;Sur 48;Este 35;Este 43;Norte 37;Noroeste 26;Noroeste 22;Este 24;Este 26;Norte 39;Sur 22;Este 50;Norte 31;
+13;Este 46;Este 26;Este 31;Norte 19;Oeste 24;Noroeste 24;Este 37;Este 28;Sur 46;Este 20;Sur 48;Este 43;
+14;Este 59;Oeste 30;Este 31;Noreste 28;Noroeste 20;Sur 31;Este 52;Este 19;Sur 48;Sur 68;Este 41;Este 70;
+15;Este 48;Sur 37;Norte 31;Noreste 19;Norte 13;Sur 33;Sudoeste 26;Este 22;Oeste 28;Sur 39;Noreste 31;Este 70;
+16;Sur 52;Sudoeste 35;Sur 41;Este 19;Este 15;Sur 20;Norte 35;Este 24;Norte 30;Noreste 30;Sur 50;Este 48;
+17;Sudoeste 50;Sudoeste 30;Sur 46;Este 31;Noreste 20;Sur 20;Oeste 43;Este 30;Norte 33;Norte 31;Sur 37;Este 46;
+18;Norte 26;Noreste 20;Sur 26;Norte 37;Este 22;Sudeste 28;Sudoeste 50;Este 31;Este 31;Este 35;Norte 31;Este 52;
+19;Este 30;Oeste 37;Este 44;Este 39;Este 39;Este 24;Norte 30;Sur 48;Este 39;Este 35;Norte 30;Este 44;
+20;Este 39;Noreste 22;Este 39;Este 52;Este 37;Este 22;Oeste 35;Sur 31;Sur 48;Este 35;Este 28;Este 52;
+21;Este 50;Noreste 24;Este 37;Este 50;Este 56;Norte 24;Norte 20;Este 39;Este 39;Sudeste 41;Norte 50;Este 50;
+22;Noreste 43;Este 41;Este 26;Norte 43;Sur 44;Este 30;Norte 19;Oeste 39;Este 44;Sudeste 46;Sur 63;Este 39;
+23;Norte 43;Este 30;Este 28;Oeste 52;Sudoeste 48;Noreste 35;Norte 15;Sudoeste 19;Este 31;Sur 37;Sudeste 52;Este 39;
+24;Este 33;Norte 30;Norte 28;Sur 31;Oeste 37;Sur 37;Este 50;Este 22;Este 39;Oeste 54;Noroeste 31;Sur 35;
+25;Norte 26;Este 22;Noreste 59;Sur 26;Oeste 33;Noreste 26;Este 39;Este 33;Este 31;Oeste 54;Este 48;Este 35;
+26;Sudeste 28;Este 50;Este 26;Noreste 19;Noroeste 35;Sur 46;Sur 33;Noroeste 37;Sudeste 46;Noreste 20;Este 41;Sudeste 44;
+27;Este 46;Este 56;Oeste 31;Norte 33;Noroeste 26;Sudoeste 33;Sudoeste 41;Este 26;Este 48;Norte 19;Este 50;Este 33;
+28;Este 35;Este 46;Noreste 20;Norte 22;Sudoeste 41;Oeste 43;Sur 46;Norte 22;Sudeste 39;Este 43;Este 33;Norte 26;
+29;Sur 48; ;Sur 26;Norte 26;Sudoeste 39;Sudoeste 35;Oeste 26;Este 24;Este 35;Este 43;Sur 46;Norte 33;
+30;Este 70; ;Este 33;Norte 33;Noroeste 30;Norte 33;Norte 35;Este 24;Este 46;Noreste 28;Este 43;Norte 48;
+31;Sudeste 37; ;Este 33; ;Oeste 33; ;Norte 24;Este 22; ;Sudeste 37; ;Este 37;
+ 
+Estación Meteorológica   Aeroparque Aero
+Año 2022 Viento Máximo (km/h)
+Datos Preliminares
+ 
+Día;Ene;Feb;Mar;Abr;May;Jun;Jul;Ago;Sep;Oct;Nov;Dic;
+1;Oeste 46;Norte 33;Sudeste 39;Este 30;Sudeste 39;Norte 19;Norte 43;Este 28;Sur 33;Norte 22;Norte 24;Sur 39;
+2;Norte 31;Este 33;Oeste 46;Norte 37;Sudeste 41;Este 19;Norte 30;Este 31;Sur 46;Este 46;Noreste 30;Sur 33;
+3;Este 37;Oeste 78;Este 39;Noroeste 31;Este 19;Este 33;Este 30;Sur 31;Sur 37;Este 48;Este 43;Este 31;
+4;Este 52;Este 30;Norte 31;Sur 24;Norte 22;Noreste 35;Este 31;Sur 37;Norte 35;Este 44;Este 46;Este 30;
+5;Este 50;Oeste 50;Sudeste 35;Noreste 26;Norte 31;Norte 17;Sudeste 30;Sudoeste 20;Norte 30;Este 43;Este 50;Este 35;
+6;Este 48;Sur 39;Norte 57;Norte 30;Norte 31;Este 17;Este 28;Sudeste 39;Norte 31;Este 39;Este 52;Norte 39;
+7;Este 48;Sudeste 31;Norte 57;Este 28;Norte 30;Norte 26;Oeste 39;Este 46;Sudeste 31;Noroeste 39;Este 52;Norte 33;
+8;Este 48;Sudeste 28;Este 28;Este 31;Noroeste 17;Norte 19;Este 41;Este 37;Sur 52;Sudoeste 56;Este 46;Sur 57;
+9;Este 50;Este 37;Sudeste 56;Este 33;Este 22;Sur 26;Este 33;Este 35;Sudoeste 44;Sur 41;Noreste 43;Este 61;
+10;Norte 33;Noroeste 39;Este 33;Este 28;Este 22;Oeste 37;Sur 35;Norte 33;Sur 28;Este 35;Noreste 35;Este 50;
+11;Sudeste 57;Sur 56;Sudoeste 33;Este 74;Este 37;Sur 26;Sur 50;Norte 35;Este 37;Norte 35;Este 39;Norte 43;
+12;Sudeste 43;Sur 44;Este 24;Sur 30;Este 30;Noreste 19;Noroeste 31;Norte 31;Este 31;Norte 48;Este 37;Sur 52;
+13;Este 31;Sudoeste 31;Este 22;Sudoeste 26;Norte 31;Norte 30;Norte 35;Este 31;Este 26;Sur 52;Este 46;Este 30;
+14;Norte 35;Norte 33;Norte 28;Este 20;Sur 30;Norte 35;Norte 31;Este 26;Noreste 22;Este 50;Sudoeste 43;Este 33;
+15;Oeste 50;Norte 33;Norte 30;Este 30;Oeste 37;Norte 20;Sudoeste 24;Norte 39;Norte 31;Este 43;Sur 39;Este 54;
+16;Noroeste 43;Sur 37;Norte 37;Sudoeste 31;Sur 57;Sur 22;Sur 41;Oeste 46;Norte 43;Este 50;Este 24;Este 46;
+17;Sudeste 67;Este 48;Sur 28;Este 35;Sur 46;Sudoeste 48;Noroeste 35;Sur 41;Norte 37;Este 57;Este 52;Este 54;
+18;Este 59;Este 44;Sudeste 52;Este 35;Sur 39;Oeste 33;Norte 37;Oeste 37;Este 30;Este 52;Sudeste 39;Este 44;
+19;Este 59;Este 41;Sur 30;Este 26;Norte 19;Noroeste 39;Norte 26;Norte 41;Sudoeste 37;Este 35;Norte 33;Sudeste 50;
+20;Este 50;Sur 41;Este 48;Sur 39;Norte 33;Este 26;Norte 31;Norte 35;Sur 30;Sudeste 28;Sudeste 48;Este 52;
+21;Sur 52;Sur 31;Noreste 52;Oeste 28;Norte 30;Sudeste 52;Este 39;Norte 24;Este 35;Sudeste 54;Sur 37;Este 48;
+22;Sudoeste 54;Sudeste 28;Este 39;Norte 43;Norte 28;Sudeste 52;Sudeste 30;Este 37;Oeste 31;Sur 48;Sur 30;Este 39;
+23;Sudeste 22;Este 50;Norte 54;Norte 41;Noreste 22;Sudeste 35;Este 28;Norte 33;Noreste 30;Este 41;Noreste 39;Norte 37;
+24;Este 26;Este 54;Oeste 65;Noroeste 33;Norte 26;Este 28;Este 44;Este 22;Este 37;Este 37;Sur 43;Sur 44;
+25;Este 30;Este 22;Oeste 44;Noroeste 46;Sur 54;Sudeste 41;Sudeste 57;Este 17;Este 46;Este 44;Sudeste 44;Sur 30;
+26;Sudeste 59;Sur 56;Sur 33;Este 33;Este 35;Este 28;Este 37;Este 26;Este 26;Oeste 46;Sudeste 39;Norte 33;
+27;Sur 43;Norte 46;Noroeste 28;Sudoeste 70;Este 24;Norte 24;Este 46;Norte 50;Sudeste 54;Oeste 39;Este 46;Norte 31;
+28;Noreste 26;Oeste 35;Norte 28;Sur 43;Este 22;Sur 20;Noroeste 56;Sudoeste 39;Este 50;Noroeste 44;Este 37;Este 52;
+29;Norte 33; ;Sur 48;Sur 22;Sur 37;Noroeste 39;Oeste 33;Norte 30;Este 44;Norte 39;Norte 41;Sur 35;
+30;Norte 43; ;Sudoeste 43;Este 20;Sur 35;Oeste 22;Norte 26;Este 39;Este 35;Sur 52;Sur 41;Norte 35;
+31;Sur 48; ;Sur 30; ;Oeste 22; ;Norte 22;Noreste 30; ;Sur 43; ;Sudeste 52;
+ 
