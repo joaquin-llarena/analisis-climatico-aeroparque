@@ -53,7 +53,7 @@ Significant preprocessing was required, including parsing, cleaning, quality con
 - **pandas** – data manipulation, cleaning, and aggregation
 - **numpy** – numerical operations
 - **matplotlib** – data visualization
-- **Google Colab (Jupyter-based environment)** – analysis, documentation, and reproducible workflows
+- **Jupyter Notebook** – analysis, documentation, and reproducible workflows
 
 ---
 
