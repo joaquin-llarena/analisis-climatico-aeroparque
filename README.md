@@ -5,9 +5,9 @@
 
 This project presents an exploratory data analysis (EDA) of daily climate data from the Aeroparque Weather Station (Buenos Aires, Argentina) for the period 2002–2022.
 
-The main goal of the project is to demonstrate a complete **data analysis workflow in Python**, including data ingestion, cleaning, transformation, exploratory analysis, and synthesis of results using reproducible methods.
+The main goal of the project is to showcase an **exploratory data analysis workflow in Python**, focusing on data cleaning, transformation, exploratory analysis, and visualization.
 
-Climate data are used as a case study, combining time series analysis, statistical exploration, and environmental data interpretation.
+Climate data are used as a practical case study to explore time series behavior, basic statistical patterns, and environmental variables.
 
 **Author:** Joaquín Llarena  
 **Year:** 2026  
@@ -24,7 +24,7 @@ Climate data are used as a case study, combining time series analysis, statistic
 - Build a clean and consistent dataset from raw daily records provided by the Argentine National Meteorological Service (SMN).
 - Explore seasonal and interannual variability of precipitation and wind.
 - Identify and characterize extreme precipitation and wind events.
-- Produce clear, reproducible metrics and visualizations suitable for a **Data Analysis portfolio**.
+- Produce clear and reproducible metrics and visualizations, suitable for inclusion in a **Data Analysis portfolio**.
 
 ---
 
@@ -61,10 +61,10 @@ Significant preprocessing was required, including parsing, cleaning, quality con
 
 1. Data loading from raw SMN files.
 2. Data cleaning and quality control.
-3. Feature construction and aggregation (monthly and annual metrics).
-4. Exploratory analysis of precipitation and wind regimes.
-5. Identification and analysis of extreme events using percentile-based thresholds.
-6. Visualization and synthesis of results.
+3. Construction of derived variables and basic aggregations (monthly and annual).
+4. Exploratory analysis of precipitation and wind behavior.
+5. Identification of extreme events using percentile-based thresholds.
+6. Visualization and summary of results.
 
 ---
 
@@ -77,7 +77,7 @@ All notebooks are fully reproducible using the provided data and standard Python
 
 ## 📈 Key Results & Outputs
 
-### Analytical Scope
+### Analytical Focus
 
 - Monthly and interannual analysis of precipitation.
 - Identification of extreme precipitation events by month and by year type.
@@ -91,7 +91,7 @@ All notebooks are fully reproducible using the provided data and standard Python
 - Precipitation exhibits strong interannual variability, with alternating wet and dry years and a slight shift toward drier conditions in recent years.
 - Extreme precipitation events are highly seasonal and are more frequent during wet years, although they can also occur under normal or dry annual conditions.
 - Wind direction is dominated by easterly flows in terms of frequency, while the strongest wind events are primarily associated with southern sectors.
-- Comparison between the first and last decades of the record suggests subtle changes in wind behavior, including a reduced contribution of extreme southern winds and a relative increase in intense events from other quadrants.
+- The comparison between the first and last decades of the record highlights small differences in wind behavior, suggesting possible changes in the relative contribution of certain wind directions.
 
 ### Visual Summary
 
