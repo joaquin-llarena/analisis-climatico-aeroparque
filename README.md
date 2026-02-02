@@ -70,7 +70,7 @@ Significant preprocessing was required, including parsing, cleaning, quality con
 
 ## ♻️ Reproducibility 
 
-The analysis was developed and executed using Google Colab.  
+The analysis was developed and executed using Jupyter Notebook.  
 All notebooks are fully reproducible using the provided data and standard Python libraries for data analysis and visualization.
 
 ---
